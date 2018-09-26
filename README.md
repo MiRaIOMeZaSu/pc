@@ -4,9 +4,7 @@
 *[MSDN,我告诉你](https://msdn.itellyou.cn/)
 
 
-* [老殁|殁漂遥](https://www.laomoit.com/)
-
-
+* [老殁|殁漂遥](https://www.laomoit.com)
 *[423Down](https://www.423down.com/)
 
 
