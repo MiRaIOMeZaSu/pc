@@ -10,7 +10,7 @@
 
 * ~~[zd423](http://www.zdfans.com/)~~
 
-## Software List(Important for me)
+## Software List(Important to me)
 1. 微软常用运行库([DirectX 修复工具](https://blog.csdn.net/vbcom/article/details/6962388)、DirectX9.0c End-User Runtimes、FLASH)
 
 2. [Annie](https://github.com/iawia002/annie/releases)
