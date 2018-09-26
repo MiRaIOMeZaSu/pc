@@ -1,5 +1,5 @@
 # Personal_Software_List
-因为每次装机都要一个一个找以前装过的软件，所以索性列一个清
+因为每次装机都要一个一个找以前装过的软件，所以索性列一个清单，顺便学习一下Markdown的写法
 ## Useful Websites
 *[MSDN,我告诉你](https://msdn.itellyou.cn/)
 
