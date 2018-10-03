@@ -51,7 +51,7 @@
 
 20. [360安全卫士](http://weishi.360.cn/)
 
-21. [360急速浏览器](https://browser.360.cn/ee/)
+21. [360极速浏览器](https://browser.360.cn/ee/)
 
 22. [Logitech Gaming Software](https://support.logitech.com.cn/zh_cn/downloads)
 
