@@ -15,7 +15,7 @@
 
 2. [Annie](https://github.com/iawia002/annie/releases)
 
-3. [W10数字许可激活C#版v2.8.0](https://www.52pojie.cn/thread-742884-1-1.html)
+3. [W10数字许可激活C#版](https://www.52pojie.cn/thread-742884-1-1.html) [原版](https://www.nsaneforums.com/topic/315047-w10-digital-license-generation-v31-c-version-of-hwid-fork/)
 
 4. [Re-Loader Activator](https://www.423down.com/6259.html)
 
