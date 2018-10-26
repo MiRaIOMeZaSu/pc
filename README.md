@@ -3,14 +3,14 @@
 
 哈希值校验语法：CertUtil -hashfile 路径 MD2/MD4/MD5/SHA1/SHA256/SHA384/SHA512
 
+[WIN10镜像](https://pan.baidu.com/s/1yYw960AgkCjrnbTWOs7jbg)
+
 ## Useful Websites
 * [MSDN,我告诉你](https://msdn.itellyou.cn/)
 
 * [老殁|殁漂遥](https://www.laomoit.com/)
 
-* [423Down](https://www.423down.com/)
-
-* ~~[zd423](http://www.zdfans.com/)~~
+* [423Down](https://www.423down.com/
 
 ## Software List(Important to me)
 1. 微软常用运行库([DirectX 修复工具](https://blog.csdn.net/vbcom/article/details/6962388)、DirectX9.0c End-User Runtimes、[Flash](https://www.flash.cn/))
