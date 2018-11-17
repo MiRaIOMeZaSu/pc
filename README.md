@@ -3,7 +3,7 @@
 
 哈希值校验语法：CertUtil -hashfile 路径 MD2/MD4/MD5/SHA1/SHA256/SHA384/SHA512
 
-[WIN10镜像](https://pan.baidu.com/s/1yYw960AgkCjrnbTWOs7jbg)
+[WIN10镜像](https://pan.baidu.com/s/1yYw960AgkCjrnbTWOs7jbg) [UUP](https://uup.rg-adguard.net/index.php)
 
 ## Useful Websites
 * [MSDN,我告诉你](https://msdn.itellyou.cn/)
