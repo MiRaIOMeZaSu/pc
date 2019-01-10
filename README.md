@@ -144,7 +144,7 @@
 
 18. [狸窝全能视频转换器](http://www.leawo.cn/)
 
-19. [waifu2x-caffe](https://developer.nvidia.com/rdp/cudnn-download) [cuDNN](https://developer.nvidia.com/rdp/cudnn-download)
+19. [waifu2x-caffe](https://github.com/lltcggie/waifu2x-caffe) [cuDNN](https://developer.nvidia.com/rdp/cudnn-download)
 
 20.
 
