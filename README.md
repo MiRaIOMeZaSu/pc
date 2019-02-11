@@ -1,7 +1,9 @@
 # Personal_Software_List
-因为每次装机都要一个一个找以前装过的软件，所以索性列一个清单，顺便学习一下Markdown的写法
+因为每次装机都要一个一个找以前装过的软件
 
 哈希值校验语法：CertUtil -hashfile 路径 MD2/MD4/MD5/SHA1/SHA256/SHA384/SHA512
+
+CPU核数设置:msconfig
 
 [HashTab](http://implbits.com/products/hashtab/)
 
