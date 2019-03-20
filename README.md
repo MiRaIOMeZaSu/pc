@@ -27,7 +27,7 @@ CPU核数设置:msconfig
 
 5. [FFmpeg(Static ver.)](https://ffmpeg.zeranoe.com/builds/)
 
-6. [阿里旺旺](http://wangwang.taobao.com/)
+6. 旺信(UWP)
 
 7. [proxyee-down](https://github.com/proxyee-down-org/proxyee-down/releases)
 
@@ -107,7 +107,11 @@ CPU核数设置:msconfig
 
 45. [KMSTools](https://www.solidfiles.com/folder/bd7165a0d4/)
 
-46.
+46. [Gifcam](http://blog.bahraniapps.com/gifcam/#download)
+
+47. Newsflow(UWP)
+
+48. 
 
 ## Software List(Optional)
 1. [DISM++](http://www.chuyu.me/zh-Hans/index.html)
