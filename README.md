@@ -23,17 +23,17 @@ CPU核数设置:msconfig
 
 3. [W10数字许可激活C#版](https://www.52pojie.cn/thread-742884-1-1.html) [原版](https://www.nsaneforums.com/topic/315047-w10-digital-license-generation-v31-c-version-of-hwid-fork/)
 
-4. [Re-Loader Activator](https://www.423down.com/6259.html)
+4. 
 
 5. [FFmpeg(Static ver.)](https://ffmpeg.zeranoe.com/builds/)
 
 6. 旺信(UWP)
 
-7. [proxyee-down](https://github.com/proxyee-down-org/proxyee-down/releases)
+7. 
 
 8. PotPlayer
 
-9. [Snipaste](https://www.snipaste.com/download.html)
+9. Snipaste(UWP)
 
 10. [SteamAchievementManager (Auto ver.)](https://github.com/gotkrypto76/SteamAchievementManager)
 
@@ -65,19 +65,19 @@ CPU核数设置:msconfig
 
 24. Start10
 
-25. [联想笔记本驱动(Touchpad)](http://driverdl.lenovo.com.cn/lenovo/DriverFilesUploadFloder/46883/TouchPad_Win10_1.exe)
+25. 
 
-26. [联想笔记本驱动(Camera)](http://driverdl.lenovo.com.cn/lenovo/DriverFilesUploadFloder/47926/Camera[AJC304AF].exe)
+26. 
 
-27. [联想笔记本驱动(Utility)](http://driverdl.lenovo.com.cn/lenovo/DriverFilesUploadFloder/50280/Utility[WWLB090E].exe)
+27. 联想驱动(Utility)(UWP)
 
-28. [联想笔记本驱动(BIOS)](http://driverdl.lenovo.com.cn/lenovo/DriverFilesUploadFloder/50203/BIOS[0KCN36WW].exe)
+28. 
 
 29. [Bandizip](http://www.bandisoft.com/bandizip/)
 
 30. [Honeyview](http://www.bandisoft.com/honeyview/)
 
-31. [联想笔记本驱动(Dolby Digital Plus)](http://driverdl.lenovo.com.cn/lenovo/DriverFilesUploadFloder/46257/Audio_Win10_1.exe)
+31. 
 
 32. [JDK](https://www.oracle.com/technetwork/java/javase/downloads/index.html)
 
@@ -87,7 +87,7 @@ CPU核数设置:msconfig
 
 35. [GeForce Experience](https://www.nvidia.com/zh-cn/geforce/geforce-experience/)
 
-36. [Baidu IME](http://ime.baidu.jp/type/)
+36. 
 
 37. [Chrome](https://www.google.com/chrome/)
 
@@ -97,7 +97,7 @@ CPU核数设置:msconfig
 
 40. [115](http://115.com/)
 
-41. [Brook](https://github.com/txthinking/brook/releases)
+41. 
 
 42. [搜狗输入法(智慧版)](https://pinyin.sogou.com/)
 
