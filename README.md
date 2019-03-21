@@ -5,6 +5,8 @@
 
 CPU核数设置:msconfig
 
+卓越性能:powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
+
 [HashTab](http://implbits.com/products/hashtab/)
 
 [WIN10镜像](https://pan.baidu.com/s/1yYw960AgkCjrnbTWOs7jbg) [UUP](https://uup.rg-adguard.net/index.php)
