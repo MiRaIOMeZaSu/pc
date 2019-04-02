@@ -25,7 +25,7 @@ CPU核数设置:msconfig
 
 3. [W10数字许可激活C#版](https://www.52pojie.cn/thread-742884-1-1.html) [原版](https://www.nsaneforums.com/topic/315047-w10-digital-license-generation-v31-c-version-of-hwid-fork/)
 
-4. 
+4. [rufus](https://github.com/pbatard/rufus/releases)
 
 5. [FFmpeg(Static ver.)](https://ffmpeg.zeranoe.com/builds/)
 
