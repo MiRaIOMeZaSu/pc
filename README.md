@@ -33,7 +33,7 @@ CPU核数设置:msconfig
 
 7. 
 
-8. PotPlayer
+8. [PotPlayer](http://t1.daumcdn.net/potplayer/beta/PotPlayerSetup.exe)
 
 9. Snipaste(UWP)
 
