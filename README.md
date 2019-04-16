@@ -61,9 +61,9 @@ FOR /F "tokens=11 delims=\" %p IN ('REG QUERY "HKCU\Software\Classes\Local Setti
 
 19. [雷音](http://cn.razerzone.com/gaming-software/surround)
 
-20. [360安全卫士](http://weishi.360.cn/)
+20. [火绒](https://www.huorong.cn/prod.html)
 
-21. [360极速浏览器](https://browser.360.cn/ee/)
+21. 
 
 22. [Logitech Gaming Software](https://support.logitech.com.cn/zh_cn/downloads)
 
@@ -95,7 +95,7 @@ FOR /F "tokens=11 delims=\" %p IN ('REG QUERY "HKCU\Software\Classes\Local Setti
 
 36. 
 
-37. [Chrome](https://www.google.com/chrome/)
+37. [Chrome](https://www.google.com/chrome/browser/thankyou.html?standalone=1&platform=win&installdataindex=defaultbrowser)
 
 38. [K-Lite Codec Pack Mega](http://www.codecguide.com/download_kl.htm)
 
