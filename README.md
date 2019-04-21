@@ -42,6 +42,11 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\MyComputer\NameSpace\{0DB7E03F-FC29-4DC6-9020-FF41B59E513A}]
 
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\ReserveManager]
+"ShippedWithReserves"=dword:00000000
+
 [HashTab](http://implbits.com/products/hashtab/)
 
 [WIN10镜像](https://pan.baidu.com/s/1yYw960AgkCjrnbTWOs7jbg) [UUP](https://uup.rg-adguard.net/index.php)
