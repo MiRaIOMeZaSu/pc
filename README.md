@@ -165,7 +165,7 @@ Windows Registry Editor Version 5.00
 
 4. Bandicam
 
-5. 迅雷
+5. [迅雷](http://x.xunlei.com/)
 
 6. IDM
 
