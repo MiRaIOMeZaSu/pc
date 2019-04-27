@@ -18,6 +18,16 @@ Enable experimental QUIC protocol support. 每 Mac, Windows, Linux, Chrome OS, An
 
 #enable-quic
 
+Experimental JavaScript
+Enable web pages to use experimental JavaScript features. 每 Mac, Windows, Linux, Chrome OS, Android
+
+#enable-javascript-harmony
+
+Identity consistency between browser and cookie jar
+When enabled, the browser manages signing in and out of Google accounts. 每 Mac, Windows, Linux, Chrome OS, Android
+
+#account-consistency
+
 New style notification
 Enables the experiment style of material-design notification 每 Mac, Windows, Linux, Chrome OS
 
@@ -68,4 +78,4 @@ Enables D3D11VideoDecoder for hardware accelerated video decoding. 每 Windows
 
 #d3d11-video-decoder
 
-"C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --force-dark-mode --flag-switches-begin --enable-quic --save-page-as-mhtml --enable-smooth-scrolling --enable-features=AutomaticTabDiscarding,D3D11VideoDecoder,EnforceTLS13Downgrade,ExperimentalUi,NewStyleNotifications,OverlayScrollbar,ParallelDownloading,PictureInPicture,ProactiveTabFreezeAndDiscard,ScrollAnchorSerialization --disable-features=ShowManagedUi --flag-switches-end
+"C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --force-dark-mode --flag-switches-begin --javascript-harmony --enable-quic --save-page-as-mhtml --enable-smooth-scrolling --enable-features=AutomaticTabDiscarding,D3D11VideoDecoder,EnforceTLS13Downgrade,ExperimentalUi,NewStyleNotifications,OverlayScrollbar,ParallelDownloading,PictureInPicture,ProactiveTabFreezeAndDiscard,ScrollAnchorSerialization --disable-features=AccountConsistency,ShowManagedUi --flag-switches-end
