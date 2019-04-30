@@ -5,12 +5,12 @@
 
 CPU核数设置:msconfig
 
-卓越性能:powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
+卓越性能:<pre>powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61</pre>
 
 一键设置所有uwp应用使用代理（用cmd）：
-FOR /F "tokens=11 delims=\" %p IN ('REG QUERY "HKCU\Software\Classes\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppContainer\Mappings"') DO CheckNetIsolation.exe LoopbackExempt -a -p=%p 
+<pre>FOR /F "tokens=11 delims=\" %p IN ('REG QUERY "HKCU\Software\Classes\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppContainer\Mappings"') DO CheckNetIsolation.exe LoopbackExempt -a -p=%p</pre>
 
-Windows Registry Editor Version 5.00
+<pre>Windows Registry Editor Version 5.00
 
 ;如需还原去除上语句前减号即可
 
@@ -40,12 +40,12 @@ Windows Registry Editor Version 5.00
 
 ;取消我的电脑"3D对象"文件夹
 
-[-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\MyComputer\NameSpace\{0DB7E03F-FC29-4DC6-9020-FF41B59E513A}]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\MyComputer\NameSpace\{0DB7E03F-FC29-4DC6-9020-FF41B59E513A}]</pre>
 
-Windows Registry Editor Version 5.00
+<pre>Windows Registry Editor Version 5.00
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\ReserveManager]
-"ShippedWithReserves"=dword:00000000
+"ShippedWithReserves"=dword:00000000</pre>
 
 [HashTab](http://implbits.com/products/hashtab/)
 
