@@ -198,3 +198,14 @@ CPU核数设置:msconfig
 20.
 
 
+##美化软件
+
+网址：[致美化](zhutix.com)
+
+[noMeiryoUI]http://tatsu.life.coocan.jp/MySoft/index.html
+
+[MzcType](https://www.mactype.net/)
+
+[UltraUXThemePatcher](https://www.syssel.net/hoefs/software_uxtheme.php?lang=en)
+
+[OldNewExplorerCfg](http://tihiy.net/files/OldNewExplorer.rar)
