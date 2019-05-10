@@ -204,7 +204,7 @@ CPU核数设置:msconfig
 
 [noMeiryoUI](http://tatsu.life.coocan.jp/MySoft/index.html)
 
-[MzcType](https://www.mactype.net/)
+[MacType](https://www.mactype.net/)
 
 [UltraUXThemePatcher](https://www.syssel.net/hoefs/software_uxtheme.php?lang=en)
 
