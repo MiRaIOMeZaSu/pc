@@ -202,7 +202,7 @@ CPU核数设置:msconfig
 
 网址：[致美化](zhutix.com)
 
-[noMeiryoUI]http://tatsu.life.coocan.jp/MySoft/index.html
+[noMeiryoUI](http://tatsu.life.coocan.jp/MySoft/index.html)
 
 [MzcType](https://www.mactype.net/)
 
