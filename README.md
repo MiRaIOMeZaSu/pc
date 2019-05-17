@@ -93,67 +93,42 @@ CPU核数设置:msconfig
 
 17. [Uplay](http://uplay.ubi.com/index.html)
 
-18. 
+18. [火绒](https://www.huorong.cn/downloadv5.html)
 
-19. 
+19. [Logitech Gaming Software](https://support.logitech.com.cn/zh_cn/downloads)
 
-20. [火绒](https://www.huorong.cn/downloadv5.html)
+20. Fences
 
-21. 
+21. Start10
 
-22. [Logitech Gaming Software](https://support.logitech.com.cn/zh_cn/downloads)
+22. [Bandizip](http://www.bandisoft.com/bandizip/)
 
-23. Fences
+23. [Honeyview](http://www.bandisoft.com/honeyview/)
 
-24. Start10
+24. [JDK](https://www.oracle.com/technetwork/java/javase/downloads/index.html)
 
-25. 
+25. [GeForce Experience](https://www.nvidia.com/zh-cn/geforce/geforce-experience/)
 
-26. 
+26. [115](http://115.com/)
 
-27. 
+27. [小丸工具箱](https://maruko.appinn.me/)
 
-28. 
+28. [K-Lite Codec Pack Mega](http://www.codecguide.com/download_kl.htm)
 
-29. [Bandizip](http://www.bandisoft.com/bandizip/)
+29. [Chrome](https://www.google.com/chrome/browser/thankyou.html?standalone=1&platform=win&installdataindex=defaultbrowser)
 
-30. [Honeyview](http://www.bandisoft.com/honeyview/)
+30. [搜狗输入法(智慧版)](https://pinyin.sogou.com/)
 
-31. 
+31. [网易云音乐](https://music.163.com/#/download)
 
-32. [JDK](https://www.oracle.com/technetwork/java/javase/downloads/index.html)
+32. [Gifcam](http://blog.bahraniapps.com/gifcam/#download)
 
-33. 
+33. Newsflow(UWP)
 
-34. 
+34. [迅雷](http://x.xunlei.com/)
 
-35. [GeForce Experience](https://www.nvidia.com/zh-cn/geforce/geforce-experience/)
+35. 
 
-36. 
-
-37. [Chrome](https://www.google.com/chrome/browser/thankyou.html?standalone=1&platform=win&installdataindex=defaultbrowser)
-
-38. [K-Lite Codec Pack Mega](http://www.codecguide.com/download_kl.htm)
-
-39. [小丸工具箱](https://maruko.appinn.me/)
-
-40. [115](http://115.com/)
-
-41. 
-
-42. [搜狗输入法(智慧版)](https://pinyin.sogou.com/)
-
-43. [网易云音乐](https://music.163.com/#/download)
-
-44. 热角
-
-45. 
-
-46. [Gifcam](http://blog.bahraniapps.com/gifcam/#download)
-
-47. Newsflow(UWP)
-
-48. 
 
 ## Software List(Optional)
 1. [DISM++](http://www.chuyu.me/zh-Hans/index.html)
@@ -164,37 +139,21 @@ CPU核数设置:msconfig
 
 4. Bandicam
 
-5. [迅雷](http://x.xunlei.com/)
+5. Eclipse
 
-6. IDM
+6. [Telegram](https://telegram.org/apps)
 
-7. [ScreenToGif](https://github.com/NickeManarin/ScreenToGif/releases)
+7. Visual Studio
 
-8. [Telegram](https://telegram.org/apps)
+8. [Open Broadcaster Software](https://obsproject.com/download)
 
-9. Visual Studio
+9. [waifu2x-caffe](https://github.com/lltcggie/waifu2x-caffe) [cuDNN](https://developer.nvidia.com/rdp/cudnn-download)
 
-10. [UnityStudio](https://github.com/Perfare/AssetStudio/releases)
+10. [MuMu模拟器](http://mumu.163.com/)
 
-11. [Geek_Typer](http://geektyper.com/)
+11. 
 
-12. [Tickeys](http://www.yingdev.com/projects/tickeys)
-
-13. [SAO Utils](http://www.gpbeta.com/post/develop/sao-utils/)
-
-14. [Siphonink 虹吸墨](http://nullice.com/Gasoft/Siphonink/)
-
-15. [Open Broadcaster Software](https://obsproject.com/download)
-
-16. [Shadowsocksr-csharp](https://github.com/shadowsocksrr/shadowsocksr-csharp/releases)
-
-17. [逍遥安卓模拟器](https://www.memuplay.com/)
-
-18. [狸窝全能视频转换器](http://www.leawo.cn/)
-
-19. [waifu2x-caffe](https://github.com/lltcggie/waifu2x-caffe) [cuDNN](https://developer.nvidia.com/rdp/cudnn-download)
-
-20.
+12. 
 
 
 ##美化软件
