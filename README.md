@@ -129,8 +129,6 @@ CPU核数设置:msconfig
 
 35. 
 
-36. 
-
 
 ## Software List(Optional)
 1. [DISM++](http://www.chuyu.me/zh-Hans/index.html)
@@ -151,7 +149,7 @@ CPU核数设置:msconfig
 
 9.[Gifcam](http://blog.bahraniapps.com/gifcam/#download)
 
-10.
+10. 
 
 
 ## 美化软件
