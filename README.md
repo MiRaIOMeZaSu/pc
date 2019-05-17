@@ -127,7 +127,9 @@ CPU核数设置:msconfig
 
 34. [迅雷](http://x.xunlei.com/)
 
-35. 
+35. [MuMu模拟器](http://mumu.163.com/)
+
+36. 
 
 
 ## Software List(Optional)
@@ -135,7 +137,7 @@ CPU核数设置:msconfig
 
 2. [Cheat Engine](https://cheatengine.org/)
 
-3. CCleaner
+3. [waifu2x-caffe](https://github.com/lltcggie/waifu2x-caffe) [cuDNN](https://developer.nvidia.com/rdp/cudnn-download)
 
 4. Bandicam
 
@@ -147,13 +149,7 @@ CPU核数设置:msconfig
 
 8. [Open Broadcaster Software](https://obsproject.com/download)
 
-9. [waifu2x-caffe](https://github.com/lltcggie/waifu2x-caffe) [cuDNN](https://developer.nvidia.com/rdp/cudnn-download)
-
-10. [MuMu模拟器](http://mumu.163.com/)
-
-11. 
-
-12. 
+9.
 
 
 ##美化软件
