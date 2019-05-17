@@ -69,7 +69,7 @@ CPU核数设置:msconfig
 
 5. [FFmpeg(Static ver.)](https://ffmpeg.zeranoe.com/builds/)
 
-6. 旺信(UWP)
+6. [旺信](https://alimarket.taobao.com/markets/qnww/portal-group/ww/download)
 
 7. [FFmpegMininum.dll H.265/AAC音频解码器](http://get.daum.net/PotPlayer64/v4/Module/FFmpeg/FFmpegMininum64.dll)
 
