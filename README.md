@@ -1,5 +1,5 @@
 # Personal_Software_List
-因为每次装机都要一个一个找以前装过的软件
+因为每次装机都要一个一个找以前装过的软件，索性列一个清单，加快装机效率
 
 哈希值校验语法：CertUtil -hashfile 路径 MD2/MD4/MD5/SHA1/SHA256/SHA384/SHA512
 
@@ -121,13 +121,13 @@ CPU核数设置:msconfig
 
 31. [网易云音乐](https://music.163.com/#/download)
 
-32. [Gifcam](http://blog.bahraniapps.com/gifcam/#download)
+32. [MuMu模拟器](http://mumu.163.com/)
 
 33. Newsflow(UWP)
 
 34. [迅雷](http://x.xunlei.com/)
 
-35. [MuMu模拟器](http://mumu.163.com/)
+35. 
 
 36. 
 
@@ -149,10 +149,12 @@ CPU核数设置:msconfig
 
 8. [Open Broadcaster Software](https://obsproject.com/download)
 
-9.
+9.[Gifcam](http://blog.bahraniapps.com/gifcam/#download)
+
+10.
 
 
-##美化软件
+## 美化软件
 
 网址：[致美化](zhutix.com)
 
