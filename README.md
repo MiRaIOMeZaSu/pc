@@ -49,14 +49,13 @@ CPU核数设置:msconfig
 
 [HashTab](http://implbits.com/products/hashtab/)
 
-[WIN10镜像](https://pan.baidu.com/s/1yYw960AgkCjrnbTWOs7jbg) [UUP](https://uup.rg-adguard.net/index.php)
+[WIN10最新镜像m8dq](https://pan.baidu.com/s/1aJCR2iTNU3XOLFdmu0Zjlg#m8dq) [UUP](https://uup.rg-adguard.net/index.php)
 
 ## Useful Websites
 * [MSDN,我告诉你](https://msdn.itellyou.cn/)
 
 * [老殁|殁漂遥](https://www.laomoit.com/)
 
-* [423Down](https://www.423down.com/)
 
 ## Software List(Important to me)
 1. 微软常用运行库([DirectX 修复工具](https://blog.csdn.net/vbcom/article/details/6962388)、DirectX9.0c End-User Runtimes、[Flash](https://www.flash.cn/))
