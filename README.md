@@ -71,12 +71,11 @@ CPU核数设置:msconfig
 
 6. 旺信(UWP)
 
-7. [FFmpegMininum.dll H.265/AAC音频解码器](http://get.daum.net/PotPlayer/v4/Module/FFmpeg/FFmpegMininum.dll)
-[64-bit](http://get.daum.net/PotPlayer64/v4/Module/FFmpeg/FFmpegMininum64.dll)
+7. [FFmpegMininum.dll H.265/AAC音频解码器](http://get.daum.net/PotPlayer64/v4/Module/FFmpeg/FFmpegMininum64.dll)
 
 8. [PotPlayer](http://t1.daumcdn.net/potplayer/beta/PotPlayerSetup.exe)
 
-9. Snipaste(UWP)
+9. [Snipaste](https://www.snipaste.com/)
 
 10. [SteamAchievementManager (Auto ver.)](https://github.com/gotkrypto76/SteamAchievementManager)
 
@@ -84,7 +83,7 @@ CPU核数设置:msconfig
 
 12. [WinSCP](https://winscp.net/eng/download.php)
 
-13. Xshell
+13. [Termius](https://www.termius.com/windows)
 
 14. Office
 
@@ -112,7 +111,7 @@ CPU核数设置:msconfig
 
 26. 
 
-27. 联想驱动(Utility)(UWP)
+27. 
 
 28. 
 
@@ -144,7 +143,7 @@ CPU核数设置:msconfig
 
 42. [搜狗输入法(智慧版)](https://pinyin.sogou.com/)
 
-43. 网易云音乐(UWP ver.)
+43. [网易云音乐](https://music.163.com/#/download)
 
 44. 热角
 
