@@ -93,9 +93,9 @@ CPU核数设置:msconfig
 
 17. [Uplay](http://uplay.ubi.com/index.html)
 
-18. Wallpaper Engine
+18. 
 
-19. [雷音](http://cn.razerzone.com/gaming-software/surround)
+19. 
 
 20. [火绒](https://www.huorong.cn/downloadv5.html)
 
@@ -123,9 +123,9 @@ CPU核数设置:msconfig
 
 32. [JDK](https://www.oracle.com/technetwork/java/javase/downloads/index.html)
 
-33. [Eclipse](https://www.eclipse.org/downloads/)
+33. 
 
-34. [Visual Studio Code](https://code.visualstudio.com/)
+34. 
 
 35. [GeForce Experience](https://www.nvidia.com/zh-cn/geforce/geforce-experience/)
 
@@ -147,7 +147,7 @@ CPU核数设置:msconfig
 
 44. 热角
 
-45. [KMSTools](https://www.solidfiles.com/folder/bd7165a0d4/)
+45. 
 
 46. [Gifcam](http://blog.bahraniapps.com/gifcam/#download)
 
