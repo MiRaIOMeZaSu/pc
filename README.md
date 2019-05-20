@@ -47,19 +47,13 @@ CPU核数设置:msconfig
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\ReserveManager]
 "ShippedWithReserves"=dword:00000000</pre>
 
-<pre>修改注册表恢复CPU性能：
+<pre>Windows Registry Editor Version 5.00
 
-    据微软官方提供的方案，下面的方法适用于幽灵系列漏洞、熔断系列漏洞含变种漏洞以及这次的微采样漏洞。
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management]
 
-通过修改注册表键值和增加注册表项可以关闭微软通过累积更新推送给Windows 10系列的漏洞微代码更新。
+"FeatureSettings"=dword:00000003
 
-关闭后不影响Windows 10后续继续接收其他安全更新，但即便微软再推送新的微代码更新默认也不会启用。
-
-    打开注册表编辑器RegEdit，打开路径：\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management
-
-    1、将FeatureSettings键值默认0修改为3
-
-    2、右键新建DWORD32位，键值名称FeatureSettingsOverrideMask，将FeatureSettingsOverrideMask键值默认0修改为3。</pre>
+"FeatureSettingsOverrideMask"=dword:00000003</pre>
 
 [HashTab](http://implbits.com/products/hashtab/)
 
