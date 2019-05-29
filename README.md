@@ -134,7 +134,11 @@ CPU核数设置:msconfig
 
 34. [迅雷](http://x.xunlei.com/)
 
-35. 
+35. [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor/releases)
+
+36. [VScode](https://code.visualstudio.com/)
+
+37. 
 
 
 ## Software List(Optional)
