@@ -57,7 +57,7 @@ CPU核数设置:msconfig
 
 [HashTab](http://implbits.com/products/hashtab/)
 
-[WIN10最新镜像m8dq](https://pan.baidu.com/s/1aJCR2iTNU3XOLFdmu0Zjlg#m8dq) [UUP](https://uup.rg-adguard.net/index.php)
+[WIN10精简版m8dq](https://pan.baidu.com/s/1aJCR2iTNU3XOLFdmu0Zjlg#m8dq) [UUP](https://uup.rg-adguard.net)
 
 ## Useful Websites
 * [MSDN,我告诉你](https://msdn.itellyou.cn/)
