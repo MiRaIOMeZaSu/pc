@@ -55,6 +55,15 @@ CPU核数设置:msconfig
 
 "FeatureSettingsOverrideMask"=dword:00000003</pre>
 
+<pre>-i
+--proxy socks5://127.0.0.1:2080/
+-f 'bestvideo[ext=mp4]+bestaudio[ext=m4a]/best[ext=mp4]/best'
+-o V:/annie/"%(uploader)s (%(uploader_id)s)/%(upload_date)s - %(title)s - (%(duration)ss) [%(resolution)s] [%(id)s].%(ext)s"
+--add-metadata
+--write-description
+--write-thumbnail
+</pre>
+
 [HashTab](http://implbits.com/products/hashtab/)
 
 [WIN10精简版m8dq](https://pan.baidu.com/s/1aJCR2iTNU3XOLFdmu0Zjlg#m8dq) [UUP](https://uup.rg-adguard.net)
