@@ -158,9 +158,11 @@ CPU核数设置:msconfig
 
 8. [Open Broadcaster Software](https://obsproject.com/download)
 
-9.[Gifcam](http://blog.bahraniapps.com/gifcam/#download)
+9. [Gifcam](http://blog.bahraniapps.com/gifcam/#download)
 
-10. 
+10.  [KMS Tools](https://www.solidfiles.com/folder/bd7165a0d4/)
+
+11. 
 
 
 ## 美化软件
