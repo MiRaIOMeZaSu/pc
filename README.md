@@ -131,7 +131,7 @@ CPU核数设置:msconfig
 
 28. [K-Lite Codec Pack Mega](http://www.codecguide.com/download_kl.htm)
 
-29. [Chrome](https://www.google.com/intl/zh-CN/chrome/browser/desktop/index.html?standalone=1&platform=win64) [企业版](https://cloud.google.com/chrome-enterprise/browser/download/)
+29. [Chrome](https://www.google.com/intl/zh-CN/chrome/browser/thankyou.html?platform=win64&standalone=1&statcb=1&installdataindex=defaultbrowser) [企业版](https://cloud.google.com/chrome-enterprise/browser/download/)
 
 30. [搜狗输入法(智慧版)](https://pinyin.sogou.com/)
 
