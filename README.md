@@ -89,7 +89,7 @@ CPU核数设置:msconfig
 
 7. [FFmpegMininum.dll H.265/AAC音频解码器](http://get.daum.net/PotPlayer64/v4/Module/FFmpeg/FFmpegMininum64.dll)
 
-8. [PotPlayer](http://t1.daumcdn.net/potplayer/beta/PotPlayerSetup.exe)
+8. [PotPlayer](https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup64.exe)
 
 9. [Snipaste](https://www.snipaste.com/)
 
