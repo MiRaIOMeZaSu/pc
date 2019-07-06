@@ -7,6 +7,9 @@ CPU核数设置:msconfig
 
 卓越性能:<pre>powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61</pre>
 
+一些过时的谷歌flags
+<pre>--save-page-as-mhtml</pre>
+
 一键设置所有uwp应用使用代理（用cmd）：
 <pre>FOR /F "tokens=11 delims=\" %p IN ('REG QUERY "HKCU\Software\Classes\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppContainer\Mappings"') DO CheckNetIsolation.exe LoopbackExempt -a -p=%p</pre>
 
