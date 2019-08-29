@@ -43,10 +43,10 @@ Enable parallel downloading to accelerate download speed. ¨C Mac, Windows, Linu
 
 #enable-parallel-downloading
 
-Use all upcoming UI features
-Use all upcoming UI features. ¨C Mac, Windows, Linux, Chrome OS, Android
+TLS 1.3 Early Data
+This option enables TLS 1.3 Early Data, allowing GET requests to be sent during the handshake when resuming a connection to a compatible TLS 1.3 server. – Mac, Windows, Linux, Chrome OS, Android
 
-#upcoming-ui-features
+#enable-tls13-early-data
 
 D3D11 Video Decoder
 Enables D3D11VideoDecoder for hardware accelerated video decoding. ¨C Windows
