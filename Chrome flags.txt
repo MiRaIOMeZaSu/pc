@@ -1,81 +1,55 @@
 Smooth Scrolling
-Animate smoothly when scrolling page content. 每 Windows, Linux, Chrome OS, Android
+Animate smoothly when scrolling page content. 穡C Windows, Linux, Chrome OS, Android
 
 #smooth-scrolling
 
 Overlay Scrollbars
-Enable the experimental overlay scrollbars implementation. You must also enable threaded compositing to have the scrollbars animate. 每 Windows, Linux, Chrome OS
+Enable the experimental overlay scrollbars implementation. You must also enable threaded compositing to have the scrollbars animate. 穡C Windows, Linux, Chrome OS
 
 #overlay-scrollbars
 
 Save Page as MHTML
-Enables saving pages as MHTML: a single text file containing HTML and all sub-resources. 每 Mac, Windows, Linux
+Enables saving pages as MHTML: a single text file containing HTML and all sub-resources. 穡C Mac, Windows, Linux
 
 #save-page-as-mhtml
 
-Experimental QUIC protocol
-Enable experimental QUIC protocol support. 每 Mac, Windows, Linux, Chrome OS, Android
-
-#enable-quic
-
 Experimental JavaScript
-Enable web pages to use experimental JavaScript features. 每 Mac, Windows, Linux, Chrome OS, Android
+Enable web pages to use experimental JavaScript features. 穡C Mac, Windows, Linux, Chrome OS, Android
 
 #enable-javascript-harmony
 
-Identity consistency between browser and cookie jar
-When enabled, the browser manages signing in and out of Google accounts. 每 Mac, Windows, Linux, Chrome OS, Android
-
-#account-consistency
-
 New style notification
-Enables the experiment style of material-design notification 每 Mac, Windows, Linux, Chrome OS
+Enables the experiment style of material-design notification 穡C Mac, Windows, Linux, Chrome OS
 
 #enable-message-center-new-style-notification
 
-Automatic tab discarding
-If enabled, tabs get automatically discarded from memory when the system memory is low. Discarded tabs are still visible on the tab strip and get reloaded when clicked on. Info about discarded tabs can be found at chrome://discards. 每 Mac, Windows
-
-#automatic-tab-discarding
-
 TLS 1.3 downgrade hardening
-This option enables the TLS 1.3 downgrade hardening mechanism. This hardens TLS 1.3 connections while remaining compatible with TLS 1.0 through 1.2 connections. Firewalls and proxies that do not function when this is enabled do not implement TLS 1.0 through 1.2 correctly or securely. They must be fixed by vendors. 每 Mac, Windows, Linux, Chrome OS, Android
+This option enables the TLS 1.3 downgrade hardening mechanism. This hardens TLS 1.3 connections while remaining compatible with TLS 1.0 through 1.2 connections. Firewalls and proxies that do not function when this is enabled do not implement TLS 1.0 through 1.2 correctly or securely. They must be fixed by vendors. 穡C Mac, Windows, Linux, Chrome OS, Android
 
 #enforce-tls13-downgrade
 
 Scroll Anchor Serialization
-Save the scroll anchor and use it to restore the scroll position when navigating. 每 Mac, Windows, Linux, Chrome OS, Android
+Save the scroll anchor and use it to restore the scroll position when navigating. 穡C Mac, Windows, Linux, Chrome OS, Android
 
 #enable-scroll-anchor-serialization
 
-Enable Picture-in-Picture.
-Show Picture-in-Picture in browser context menu and video native controls. The #enable-surfaces-for-videos flag must be enabled as well to use it. 每 Mac, Windows, Linux, Chrome OS
-
-#enable-picture-in-picture
-
 Show managed UI for managed users
-Enabled/disable showing enterprise users a 'Managed by your organization' message in the app menu and on some chrome:// pages. 每 Mac, Windows, Linux, Chrome OS
+Enabled/disable showing enterprise users a 'Managed by your organization' message in the app menu and on some chrome:// pages. 穡C Mac, Windows, Linux, Chrome OS
 
 #show-managed-ui
 
 Parallel downloading
-Enable parallel downloading to accelerate download speed. 每 Mac, Windows, Linux, Chrome OS, Android
+Enable parallel downloading to accelerate download speed. 穡C Mac, Windows, Linux, Chrome OS, Android
 
 #enable-parallel-downloading
 
 Use all upcoming UI features
-Use all upcoming UI features. 每 Mac, Windows, Linux, Chrome OS, Android
+Use all upcoming UI features. 穡C Mac, Windows, Linux, Chrome OS, Android
 
 #upcoming-ui-features
 
-Proactive Tab Freeze and Discard
-Enables proactive tab freezing and discarding. This requires #enable-page-almost-idle. 每 Mac, Windows, Linux, Chrome OS
-
-#proactive-tab-freeze-and-discard
-
 D3D11 Video Decoder
-Enables D3D11VideoDecoder for hardware accelerated video decoding. 每 Windows
+Enables D3D11VideoDecoder for hardware accelerated video decoding. 穡C Windows
 
 #d3d11-video-decoder
 
-"C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --force-dark-mode --flag-switches-begin --javascript-harmony --enable-quic --save-page-as-mhtml --enable-smooth-scrolling --enable-features=AutomaticTabDiscarding,D3D11VideoDecoder,EnforceTLS13Downgrade,ExperimentalUi,NewStyleNotifications,OverlayScrollbar,ParallelDownloading,PictureInPicture,ProactiveTabFreezeAndDiscard,ScrollAnchorSerialization --disable-features=AccountConsistency,ShowManagedUi --flag-switches-end
