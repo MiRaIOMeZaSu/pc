@@ -53,3 +53,27 @@ Enables D3D11VideoDecoder for hardware accelerated video decoding. ¨C Windows
 
 #d3d11-video-decoder
 
+Future V8 VM features
+This enables upcoming and experimental V8 VM features. This flag does not enable experimental JavaScript features. – Mac, Windows, Linux, Chrome OS, Android
+
+#enable-future-v8-vm-features
+
+Experimental Web Platform features
+Enables experimental Web Platform features that are in development. – Mac, Windows, Linux, Chrome OS, Android
+
+#enable-experimental-web-platform-features
+
+Developer Tools experiments
+Enables Developer Tools experiments. Use Settings panel in Developer Tools to toggle individual experiments. – Mac, Windows, Linux, Chrome OS
+
+#enable-devtools-experiments
+
+New tab-loading animation
+Enables a new look for the tab-loading animation. – Mac, Windows, Linux, Chrome OS
+
+#new-tab-loading-animation
+
+Enable native notifications.
+Enable support for using the native notification toasts and notification center on platforms where these are available. – Mac, Windows, Linux
+
+#enable-native-notifications
