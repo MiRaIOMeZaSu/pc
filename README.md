@@ -162,7 +162,7 @@ Windows Registry Editor Version 5.00
 
 6. [旺信](https://alimarket.taobao.com/markets/qnww/portal-group/ww/download)
 
-7. [FFmpegMininum.dll H.265/AAC音频解码器](http://get.daum.net/PotPlayer64/v4/Module/FFmpeg/FFmpegMininum64.dll)
+7. Groupy
 
 8. [PotPlayer](https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup64.exe)
 
@@ -170,7 +170,7 @@ Windows Registry Editor Version 5.00
 
 10. [SteamAchievementManager (Auto ver.)](https://github.com/gotkrypto76/SteamAchievementManager)
 
-11. TIM
+11. QQ
 
 12. [WinSCP](https://winscp.net/eng/download.php)
 
@@ -208,7 +208,7 @@ Windows Registry Editor Version 5.00
 
 29. [Chrome](https://www.google.com/intl/zh-CN/chrome/browser/thankyou.html?platform=win64&standalone=1&statcb=1&installdataindex=defaultbrowser) [企业版](https://cloud.google.com/chrome-enterprise/browser/download/)
 
-30. [搜狗输入法(智慧版)](https://pinyin.sogou.com/)
+30. [搜狗输入法](https://pinyin.sogou.com/)
 
 31. [网易云音乐](https://music.163.com/#/download)
 
