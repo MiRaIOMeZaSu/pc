@@ -222,7 +222,7 @@ Windows Registry Editor Version 5.00
 
 36. [VScode](https://code.visualstudio.com/)
 
-37. 
+37. [ScreenToGif](https://github.com/NickeManarin/ScreenToGif/releases)
 
 
 ## Software List(Optional)
