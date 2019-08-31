@@ -77,3 +77,9 @@ Enable native notifications.
 Enable support for using the native notification toasts and notification center on platforms where these are available. – Mac, Windows, Linux
 
 #enable-native-notifications
+
+Experimental enabled SharedArrayBuffer support in JavaScript.
+Enable SharedArrayBuffer support in JavaScript. – Mac, Windows, Linux, Chrome OS, Android
+
+#shared-array-buffer
+
