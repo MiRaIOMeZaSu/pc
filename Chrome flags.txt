@@ -83,3 +83,8 @@ Enable SharedArrayBuffer support in JavaScript. – Mac, Windows, Linux, Chrome 
 
 #shared-array-buffer
 
+Web Platform Controls updated UI
+If enabled, HTML forms elements will be rendered using an updated style. – Mac, Windows, Linux, Chrome OS, Android
+
+#form-controls-refresh
+
