@@ -88,3 +88,10 @@ If enabled, HTML forms elements will be rendered using an updated style. – Mac
 
 #form-controls-refresh
 
+Force Dark Mode for Web Contents
+Automatically render all web contents using a dark theme. – Mac, Windows, Linux, Chrome OS, Android
+
+#enable-force-dark
+
+Enabled with selective inversion of non-image elements （非图像元素的选择性反转）
+
