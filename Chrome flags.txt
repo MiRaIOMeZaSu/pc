@@ -47,3 +47,8 @@ Web Platform Controls updated UI
 If enabled, HTML forms elements will be rendered using an updated style. – Mac, Windows, Linux, Chrome OS, Android
 
 #form-controls-refresh
+
+Experimental Web Platform features
+Enables experimental Web Platform features that are in development. – Mac, Windows, Linux, Chrome OS, Android
+
+#enable-experimental-web-platform-features
