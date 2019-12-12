@@ -7,9 +7,6 @@ CPU核数设置:msconfig
 
 卓越性能:<pre>powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61</pre>
 
-一些过时的谷歌flags
-<pre>--save-page-as-mhtml</pre>
-
 一键设置所有uwp应用使用代理（用cmd）：
 <pre>FOR /F "tokens=11 delims=\" %p IN ('REG QUERY "HKCU\Software\Classes\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppContainer\Mappings"') DO CheckNetIsolation.exe LoopbackExempt -a -p=%p</pre>
 
@@ -67,11 +64,7 @@ CPU核数设置:msconfig
 --write-thumbnail
 </pre>
 
-<pre>作者：keccak
-链接：https://www.zhihu.com/question/264844505/answer/524992173
-来源：知乎
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
-
+<pre>
 Windows Registry Editor Version 5.00
 
 ;导入Flash优化设置 支持Chromium/Chrome .
@@ -110,11 +103,7 @@ Windows Registry Editor Version 5.00
 "2"="http://*"
 </pre>
 
-<pre>作者：keccak
-链接：https://www.zhihu.com/question/264844505/answer/524992173
-来源：知乎
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
-
+<pre>
 Windows Registry Editor Version 5.00
 
 ;删除Chromium FLASH设置
