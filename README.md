@@ -42,19 +42,6 @@ CPU核数设置:msconfig
 
 [-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\MyComputer\NameSpace\{0DB7E03F-FC29-4DC6-9020-FF41B59E513A}]</pre>
 
-<pre>Windows Registry Editor Version 5.00
-
-[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\ReserveManager]
-"ShippedWithReserves"=dword:00000000</pre>
-
-<pre>Windows Registry Editor Version 5.00
-
-[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management]
-
-"FeatureSettings"=dword:00000003
-
-"FeatureSettingsOverrideMask"=dword:00000003</pre>
-
 <pre>-i
 --proxy socks5://127.0.0.1:2080/
 -f 'bestvideo[ext=mp4]+bestaudio[ext=m4a]/best[ext=mp4]/best'
