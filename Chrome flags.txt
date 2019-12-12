@@ -13,6 +13,16 @@ This enables upcoming and experimental V8 VM features. This flag does not enable
 
 #enable-future-v8-vm-features
 
+GPU rasterization
+Use GPU to rasterize web content. Requires impl-side painting. – Mac, Windows, Linux, Chrome OS, Android
+
+#enable-gpu-rasterization
+
+Experimental Web Platform features
+Enables experimental Web Platform features that are in development. – Mac, Windows, Linux, Chrome OS, Android
+
+#enable-experimental-web-platform-features
+
 Developer Tools experiments
 Enables Developer Tools experiments. Use Settings panel in Developer Tools to toggle individual experiments. – Mac, Windows, Linux, Chrome OS
 
@@ -47,8 +57,3 @@ Web Platform Controls updated UI
 If enabled, HTML forms elements will be rendered using an updated style. – Mac, Windows, Linux, Chrome OS, Android
 
 #form-controls-refresh
-
-Experimental Web Platform features
-Enables experimental Web Platform features that are in development. – Mac, Windows, Linux, Chrome OS, Android
-
-#enable-experimental-web-platform-features
