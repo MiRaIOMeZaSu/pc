@@ -8,6 +8,11 @@ Enable web pages to use experimental JavaScript features. – Mac, Windows, Linu
 
 #enable-javascript-harmony
 
+Experimental WebAssembly
+Enable web pages to use experimental WebAssembly features. – Mac, Windows, Linux, Chrome OS, Android
+
+#enable-experimental-webassembly-features
+
 Future V8 VM features
 This enables upcoming and experimental V8 VM features. This flag does not enable experimental JavaScript features. – Mac, Windows, Linux, Chrome OS, Android
 
