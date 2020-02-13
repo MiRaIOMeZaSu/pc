@@ -209,7 +209,7 @@ Windows Registry Editor Version 5.00
 
 3. [waifu2x-caffe](https://github.com/lltcggie/waifu2x-caffe) [cuDNN](https://developer.nvidia.com/rdp/cudnn-download)
 
-4. Bandicam
+4. [Captura](https://github.com/MathewSachin/Captura/releases)
 
 5. Eclipse
 
