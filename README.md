@@ -133,7 +133,7 @@ Windows Registry Editor Version 5.00
 
 3. [W10数字许可激活C#版](https://www.52pojie.cn/thread-742884-1-1.html) [原版](https://www.nsaneforums.com/topic/315047-w10-digital-license-generation-v31-c-version-of-hwid-fork/)
 
-4. [rufus](https://github.com/pbatard/rufus/releases)
+4. [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor/releases)
 
 5. [FFmpeg(Static ver.)](https://ffmpeg.zeranoe.com/builds/)
 
@@ -161,7 +161,7 @@ Windows Registry Editor Version 5.00
 
 17. [Uplay](http://uplay.ubi.com/index.html)
 
-18. [火绒](https://www.huorong.cn/downloadv5.html)
+18. [火绒](https://www.huorong.cn/person5.html)
 
 19. [Logitech Gaming Software](https://support.logitech.com.cn/zh_cn/downloads)
 
@@ -173,11 +173,11 @@ Windows Registry Editor Version 5.00
 
 23. [Honeyview](http://www.bandisoft.com/honeyview/)
 
-24. [JDK](https://www.oracle.com/technetwork/java/javase/downloads/index.html)
+24. [JDK](https://www.oracle.com/java/technologies/javase-downloads.html)
 
 25. [GeForce Experience](https://www.nvidia.com/zh-cn/geforce/geforce-experience/)
 
-26. [115](http://115.com/)
+26. [迅雷](http://x.xunlei.com/)
 
 27. [小丸工具箱](https://maruko.appinn.me/)
 
@@ -189,17 +189,17 @@ Windows Registry Editor Version 5.00
 
 31. [网易云音乐](https://music.163.com/#/download)
 
-32. [MuMu模拟器](http://mumu.163.com/)
+32. [VScode](https://code.visualstudio.com/)
 
 33. Newsflow(UWP)
 
-34. [迅雷](http://x.xunlei.com/)
+34. 
 
-35. [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor/releases)
+35. 
 
-36. [VScode](https://code.visualstudio.com/)
+36. 
 
-37. [ScreenToGif](https://github.com/NickeManarin/ScreenToGif/releases)
+37. 
 
 
 ## Software List(Optional)
@@ -211,19 +211,21 @@ Windows Registry Editor Version 5.00
 
 4. [Captura](https://github.com/MathewSachin/Captura/releases)
 
-5. Eclipse
+5. [Open Broadcaster Software](https://obsproject.com/download)
 
-6. [Telegram](https://telegram.org/apps)
+6. [ScreenToGif](https://github.com/NickeManarin/ScreenToGif/releases)
 
-7. Visual Studio
+7. [KMS Tools](https://www.solidfiles.com/folder/bd7165a0d4/)
 
-8. [Open Broadcaster Software](https://obsproject.com/download)
+8. [rufus](https://github.com/pbatard/rufus/releases)
 
-9. [Gifcam](http://blog.bahraniapps.com/gifcam/#download)
+9. [MuMu模拟器](http://mumu.163.com/)
 
-10.  [KMS Tools](https://www.solidfiles.com/folder/bd7165a0d4/)
+10.  
 
 11. 
+
+12. 
 
 
 ## 美化软件
