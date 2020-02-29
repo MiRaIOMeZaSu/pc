@@ -201,7 +201,9 @@ Windows Registry Editor Version 5.00
 
 37. [Everything](https://www.voidtools.com/zh-cn/downloads/)
 
-38. 
+38. [YouTube Live Chat Flow](https://github.com/fiahfy/youtube-live-chat-flow/releases)
+
+39. 
 
 
 ## Software List(Optional)
@@ -223,7 +225,7 @@ Windows Registry Editor Version 5.00
 
 9. [MuMu模拟器](http://mumu.163.com/)
 
-10.  
+10. [雷电模拟器](https://www.ldmnq.com/)
 
 11. 
 
