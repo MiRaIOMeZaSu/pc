@@ -193,13 +193,15 @@ Windows Registry Editor Version 5.00
 
 33. Newsflow(UWP)
 
-34. 
+34. [百度云](http://pan.baidu.com/download)
 
-35. 
+35. [酷Q](https://cqp.cc/t/23253)
 
-36. 
+36. [Discord](https://discordapp.com/download)
 
-37. 
+37. [Everything](https://www.voidtools.com/zh-cn/downloads/)
+
+38. 
 
 
 ## Software List(Optional)
