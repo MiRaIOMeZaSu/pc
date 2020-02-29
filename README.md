@@ -131,7 +131,7 @@ Windows Registry Editor Version 5.00
 
 2. [Annie](https://github.com/iawia002/annie/releases)
 
-3. [W10数字许可激活C#版](https://www.52pojie.cn/thread-742884-1-1.html) [原版](https://www.nsaneforums.com/topic/315047-w10-digital-license-generation-v31-c-version-of-hwid-fork/)
+3. [HWID_KMS38](http://bbs.pcbeta.com/viewthread-1811496-1-1.html)
 
 4. [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor/releases)
 
@@ -153,7 +153,7 @@ Windows Registry Editor Version 5.00
 
 13. [Termius](https://www.termius.com/windows)
 
-14. Office
+14. [Office Tool Plus](https://github.com/YerongAI/Office-Tool/releases)
 
 15. [Adobe software series](https://weibo.com/vposy)
 
@@ -203,9 +203,7 @@ Windows Registry Editor Version 5.00
 
 38. [YouTube Live Chat Flow](https://github.com/fiahfy/youtube-live-chat-flow/releases)
 
-39. [Office Tool Plus](https://github.com/YerongAI/Office-Tool/releases)
-
-40. 
+39. 
 
 
 ## Software List(Optional)
@@ -230,8 +228,6 @@ Windows Registry Editor Version 5.00
 10. [雷电模拟器](https://www.ldmnq.com/)
 
 11. 
-
-12. 
 
 
 ## 美化软件
