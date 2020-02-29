@@ -203,7 +203,9 @@ Windows Registry Editor Version 5.00
 
 38. [YouTube Live Chat Flow](https://github.com/fiahfy/youtube-live-chat-flow/releases)
 
-39. 
+39. [Office Tool Plus](https://github.com/YerongAI/Office-Tool/releases)
+
+40. 
 
 
 ## Software List(Optional)
