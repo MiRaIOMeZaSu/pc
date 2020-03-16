@@ -147,7 +147,7 @@ Windows Registry Editor Version 5.00
 
 10. [SteamAchievementManager (Auto ver.)](https://github.com/gotkrypto76/SteamAchievementManager)
 
-11. QQ
+11. [QQ](https://im.qq.com/download/)
 
 12. [WinSCP](https://winscp.net/eng/download.php)
 
@@ -203,8 +203,9 @@ Windows Registry Editor Version 5.00
 
 38. [YouTube Live Chat Flow](https://github.com/fiahfy/youtube-live-chat-flow/releases)
 
-39. 
+39. [Bandizip](https://www.bandisoft.com/bandizip/dl/)
 
+40. 
 
 ## Software List(Optional)
 1. [DISM++](http://www.chuyu.me/zh-Hans/index.html)
