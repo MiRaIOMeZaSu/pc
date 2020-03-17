@@ -141,7 +141,7 @@ Windows Registry Editor Version 5.00
 
 7. Groupy
 
-8. [PotPlayer](https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup64.exe)
+8. [PotPlayer](https://potplayer.daum.net/)
 
 9. [Snipaste](https://www.snipaste.com/)
 
