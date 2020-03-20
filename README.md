@@ -203,7 +203,7 @@ Windows Registry Editor Version 5.00
 
 38. [YouTube Live Chat Flow](https://github.com/fiahfy/youtube-live-chat-flow/releases)
 
-39. [Bandizip](https://www.bandisoft.com/bandizip/dl/)
+39. 热角(UWP)
 
 40. 
 
