@@ -169,7 +169,7 @@ Windows Registry Editor Version 5.00
 
 21. Start10
 
-22. [Bandizip](http://www.bandisoft.com/bandizip/)
+22. [Bandizip](http://www.bandisoft.com/bandizip/) [7-Zip](https://www.7-zip.org/)
 
 23. [Honeyview](http://www.bandisoft.com/honeyview/) [qimgv](https://github.com/easymodo/qimgv/releases)
 
