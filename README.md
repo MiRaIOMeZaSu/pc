@@ -171,7 +171,7 @@ Windows Registry Editor Version 5.00
 
 22. [Bandizip](http://www.bandisoft.com/bandizip/)
 
-23. [Honeyview](http://www.bandisoft.com/honeyview/)
+23. [Honeyview](http://www.bandisoft.com/honeyview/) [qimgv](https://github.com/easymodo/qimgv/releases)
 
 24. [JDK](https://www.oracle.com/java/technologies/javase-downloads.html)
 
@@ -212,7 +212,7 @@ Windows Registry Editor Version 5.00
 
 2. [Cheat Engine](https://cheatengine.org/)
 
-3. [waifu2x-caffe](https://github.com/lltcggie/waifu2x-caffe) [cuDNN](https://developer.nvidia.com/rdp/cudnn-download)
+3. [waifu2x-caffe](https://github.com/lltcggie/waifu2x-caffe) [cuDNN](https://developer.nvidia.com/rdp/cudnn-download) [Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI/releases)
 
 4. [Captura](https://github.com/MathewSachin/Captura/releases)
 
@@ -228,7 +228,10 @@ Windows Registry Editor Version 5.00
 
 10. [雷电模拟器](https://www.ldmnq.com/)
 
-11. 
+11. [OpenHashTab](https://github.com/namazso/OpenHashTab/releases)
+
+12. 
+
 
 
 ## 美化软件
