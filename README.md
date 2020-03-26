@@ -179,7 +179,7 @@ Windows Registry Editor Version 5.00
 
 26. [迅雷](http://x.xunlei.com/)
 
-27. [小丸工具箱](https://maruko.appinn.me/)
+27. [小丸工具箱](https://maruko.appinn.me/) [XMedia Recode](https://www.xmedia-recode.de/en/download.php)
 
 28. [K-Lite Codec Pack Mega](http://www.codecguide.com/download_kl.htm)
 
@@ -230,8 +230,9 @@ Windows Registry Editor Version 5.00
 
 11. [OpenHashTab](https://github.com/namazso/OpenHashTab/releases)
 
-12. 
+12. [万兴系列软件]
 
+13. 
 
 
 ## 美化软件
