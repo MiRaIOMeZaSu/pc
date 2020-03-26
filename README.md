@@ -115,11 +115,10 @@ Windows Registry Editor Version 5.00
 "1"=-
 "2"=-</pre>
 
-[HashTab](http://implbits.com/products/hashtab/)
-
-[WIN10精简版m8dq](https://pan.baidu.com/s/1aJCR2iTNU3XOLFdmu0Zjlg#m8dq) [UUP](https://uup.rg-adguard.net)
 
 ## Useful Websites
+* [UUP dump](https://uupdump.ml/?lang=zh-cn)
+
 * [MSDN,我告诉你](https://msdn.itellyou.cn/)
 
 * [老殁|殁漂遥](https://www.laomoit.com/)
