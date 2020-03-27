@@ -1,7 +1,7 @@
 # Personal_Software_List
 因为每次装机都要一个一个找以前装过的软件，索性列一个清单，加快装机效率
 
-哈希值校验语法：CertUtil -hashfile 路径 MD2/MD4/MD5/SHA1/SHA256/SHA384/SHA512
+哈希值校验语法：CertUtil -hashfile 路径 MD5/SHA1/SHA256/SHA512
 
 CPU核数设置:msconfig
 
@@ -204,7 +204,10 @@ Windows Registry Editor Version 5.00
 
 39. 热角(UWP)
 
-40. 
+40. [nvidiaProfileInspector](https://github.com/Orbmu2k/nvidiaProfileInspector/releases/)
+
+41. 
+
 
 ## Software List(Optional)
 1. [DISM++](http://www.chuyu.me/zh-Hans/index.html)
