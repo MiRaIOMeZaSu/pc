@@ -232,7 +232,7 @@ Windows Registry Editor Version 5.00
 
 11. [OpenHashTab](https://github.com/namazso/OpenHashTab/releases)
 
-12. [万兴系列软件]
+12. 万兴系列软件
 
 13. 
 
