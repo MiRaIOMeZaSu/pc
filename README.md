@@ -125,7 +125,7 @@ Windows Registry Editor Version 5.00
 
 * [423Down](https://www.423down.com/)
 
-## Software List(Important to me)
+## Software List(Indispensable)
 1. 微软常用运行库([DirectX 修复工具](https://blog.csdn.net/vbcom/article/details/6962388)、DirectX9.0c End-User Runtimes、[Flash](https://www.flash.cn/))
 
 2. [Annie](https://github.com/iawia002/annie/releases)
