@@ -42,7 +42,9 @@ CPU核数设置:msconfig
 
 [-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\MyComputer\NameSpace\{0DB7E03F-FC29-4DC6-9020-FF41B59E513A}]</pre>
 
-<pre>-i
+<pre>
+C:\Users\<user name>\youtube-dl.con
+-i
 --proxy socks5://127.0.0.1:2080/
 -f 'bestvideo[ext=mp4]+bestaudio[ext=m4a]/best[ext=mp4]/best'
 -o V:/annie/"%(uploader)s (%(uploader_id)s)/%(upload_date)s - %(title)s - (%(duration)ss) [%(resolution)s] [%(id)s].%(ext)s"
