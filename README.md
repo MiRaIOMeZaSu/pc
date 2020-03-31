@@ -131,6 +131,8 @@ Windows Registry Editor Version 5.00
 
 * [远景论坛](http://bbs.pcbeta.com/forum-win10-1.html)
 
+* [烈火软件](https://hrtsea.com/)
+
 ## Software List(Indispensable)
 1. 微软常用运行库([DirectX 修复工具](https://blog.csdn.net/vbcom/article/details/6962388)、DirectX9.0c End-User Runtimes、[Flash](https://www.flash.cn/))
 
