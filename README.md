@@ -121,17 +121,19 @@ Windows Registry Editor Version 5.00
 ## Useful Websites
 * [UUP dump](https://uupdump.ml/?lang=zh-cn)
 
-* [MSDN,我告诉你](https://msdn.itellyou.cn/)
-
-* [老殁|殁漂遥](https://www.laomoit.com/)
-
 * [423Down](https://www.423down.com/)
 
 * [睿派克技术论坛](https://www.repaik.com/forum-68-1.html)
 
-* [远景论坛](http://bbs.pcbeta.com/forum-win10-1.html)
+* [胡萝卜周](http://www.carrotchou.blog/)
 
 * [烈火软件](https://hrtsea.com/)
+
+* [远景论坛](http://bbs.pcbeta.com/forum-win10-1.html)
+
+* [MSDN,我告诉你](https://msdn.itellyou.cn/)
+
+* [老殁|殁漂遥](https://www.laomoit.com/)
 
 ## Software List(Indispensable)
 1. 微软常用运行库([DirectX 修复工具](https://blog.csdn.net/vbcom/article/details/6962388)、DirectX9.0c End-User Runtimes、[Flash](https://www.flash.cn/))
