@@ -36,7 +36,7 @@ CPU核数设置:msconfig
 
 ;取消我的电脑"图片"文件夹
 
-[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\MyComputer\NameSpace\{24ad3ad4-a569-4530-98e1-ab02f9417aa8}]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\MyComputer\NameSpace\{24ad3ad4-a569-4530-98e1-ab02f9417aa8}]
 
 ;取消我的电脑"3D对象"文件夹
 
@@ -259,4 +259,4 @@ Windows Registry Editor Version 5.00
 
 [UltraUXThemePatcher](https://www.syssel.net/hoefs/software_uxtheme.php?lang=en)
 
-[OldNewExplorerCfg](http://tihiy.net/files/OldNewExplorer.rar)
+[OldNewExplorerCfg](https://tihiy.net/files/OldNewExplorer.rar)
