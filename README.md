@@ -247,7 +247,7 @@ Windows Registry Editor Version 5.00
 10. 
 
 
-## 美化软件
+## 美化软件(Unstable)
 
 [致美化](https://zhutix.com/)
 
