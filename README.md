@@ -20,11 +20,11 @@ CPU核数设置:msconfig
 
 ;取消我的电脑"文档"文件夹
 
-[-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\MyComputer\NameSpace\{d3162b92-9365-467a-956b-92703aca08af}]
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\MyComputer\NameSpace\{d3162b92-9365-467a-956b-92703aca08af}]
 
 ;取消我的电脑"桌面"文件夹
 
-[-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\MyComputer\NameSpace\{B4BFCC3A-DB2C-424C-B029-7FE99A87C641}]
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\MyComputer\NameSpace\{B4BFCC3A-DB2C-424C-B029-7FE99A87C641}]
 
 ;取消我的电脑"音乐"文件夹?
 
@@ -36,7 +36,7 @@ CPU核数设置:msconfig
 
 ;取消我的电脑"图片"文件夹
 
-[-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\MyComputer\NameSpace\{24ad3ad4-a569-4530-98e1-ab02f9417aa8}]
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\MyComputer\NameSpace\{24ad3ad4-a569-4530-98e1-ab02f9417aa8}]
 
 ;取消我的电脑"3D对象"文件夹
 
@@ -136,7 +136,7 @@ Windows Registry Editor Version 5.00
 * [老殁|殁漂遥](https://www.laomoit.com/)
 
 ## Software List(Indispensable)
-1. 微软常用运行库([DirectX 修复工具](https://blog.csdn.net/vbcom/article/details/6962388)、DirectX9.0c End-User Runtimes、[Flash](https://www.flash.cn/))
+1. [微软常用运行库](https://www.repaik.com/forum.php?mod=viewthread&tid=53948)、[DirectX 修复工具](https://blog.csdn.net/vbcom/article/details/6962388)、DirectX9.0c End-User Runtimes、[Flash](https://www.repaik.com/forum.php?mod=viewthread&tid=340482))
 
 2. [youtube-dl](https://github.com/ytdl-org/youtube-dl/releases) [Annie](https://github.com/iawia002/annie/releases)
 
@@ -156,7 +156,7 @@ Windows Registry Editor Version 5.00
 
 10. [SteamAchievementManager (Auto ver.)](https://github.com/gotkrypto76/SteamAchievementManager)
 
-11. [QQ](https://im.qq.com/download/)
+11. [QQ](https://im.qq.com/download/) [NtrQQ](https://iya.app/)
 
 12. [WinSCP](https://winscp.net/eng/download.php)
 
@@ -178,7 +178,7 @@ Windows Registry Editor Version 5.00
 
 21. Start10
 
-22. [Bandizip](http://www.bandisoft.com/bandizip/) [7-Zip](https://www.7-zip.org/)
+22. [7-Zip](https://www.7-zip.org/)
 
 23. [Honeyview](http://www.bandisoft.com/honeyview/) [qimgv](https://github.com/easymodo/qimgv/releases)
 
@@ -216,7 +216,7 @@ Windows Registry Editor Version 5.00
 
 40. [nvidiaProfileInspector](https://github.com/Orbmu2k/nvidiaProfileInspector/releases/)
 
-41. 
+41. [JetBrains](https://zhile.io/)
 
 
 ## Software List(Optional)
@@ -238,7 +238,11 @@ Windows Registry Editor Version 5.00
 
 9. 万兴系列软件
 
-10. 
+10. UltraISO
+
+11. WinRAR
+
+12. 
 
 
 ## 美化软件
