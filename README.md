@@ -136,7 +136,7 @@ Windows Registry Editor Version 5.00
 * [老殁|殁漂遥](https://www.laomoit.com/)
 
 ## Software List(Indispensable)
-1. [微软常用运行库](https://www.repaik.com/forum.php?mod=viewthread&tid=53948)、[DirectX 修复工具](https://blog.csdn.net/vbcom/article/details/6962388)、[DirectX9.0c End-User Runtimes](https://www.repaik.com/forum.php?mod=viewthread&tid=55660)、[Flash](https://www.repaik.com/forum.php?mod=viewthread&tid=340482))
+1. [微软常用运行库](https://www.repaik.com/forum.php?mod=viewthread&tid=53948)、[DirectX 修复工具](https://blog.csdn.net/vbcom/article/details/6962388)、[DirectX9.0c End-User Runtimes](https://www.repaik.com/forum.php?mod=viewthread&tid=55660)、[Flash](https://www.repaik.com/forum.php?mod=viewthread&tid=340482)
 
 2. [youtube-dl](https://github.com/ytdl-org/youtube-dl/releases) [Annie](https://github.com/iawia002/annie/releases)
 
@@ -218,7 +218,13 @@ Windows Registry Editor Version 5.00
 
 41. [IntelliJ IDEA](https://www.jetbrains.com/idea/download/#section=windows) [JetBrains Mono](https://www.jetbrains.com/lp/mono/) [patch](https://zhile.io/)
 
-42. 
+42. [CCleaner](https://www.423down.com/716.html) [Winapp2](https://github.com/MoscaDotTo/Winapp2)
+
+43. [OpenHashTab](https://github.com/namazso/OpenHashTab/releases)
+
+44. [ScreenToGif](https://github.com/NickeManarin/ScreenToGif/releases)
+
+45. 
 
 
 ## Software List(Optional)
@@ -232,21 +238,16 @@ Windows Registry Editor Version 5.00
 
 5. [Open Broadcaster Software](https://obsproject.com/download)
 
-6. [ScreenToGif](https://github.com/NickeManarin/ScreenToGif/releases)
+6. [万兴系列软件](https://www.423down.com/9357.html)
 
-7. [OpenHashTab](https://github.com/namazso/OpenHashTab/releases)
+7. [WinRAR](https://hrtsea.com/121.html)
 
 8. [rufus](https://github.com/pbatard/rufus/releases)
 
-9. [万兴系列软件](https://www.423down.com/9357.html)
+9.  [UltraISO](https://www.423down.com/1397.html)
 
-10. [UltraISO](https://www.423down.com/1397.html)
+10. 
 
-11. [WinRAR](https://hrtsea.com/121.html)
-
-12. [CCleaner](https://www.423down.com/716.html) [Winapp2](https://github.com/MoscaDotTo/Winapp2)
-
-13. 
 
 ## 美化软件
 
