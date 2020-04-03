@@ -176,9 +176,9 @@ Other Settings —— Translation —— √ 覆盖默认字体(推荐) ； 主�
 * [老殁|殁漂遥](https://www.laomoit.com/)
 
 ## Software List(Indispensable)
-1. [微软常用运行库](https://www.repaik.com/forum.php?mod=viewthread&tid=53948)、[DirectX 修复工具](https://blog.csdn.net/vbcom/article/details/6962388)、[DirectX9.0c End-User Runtimes](https://www.repaik.com/forum.php?mod=viewthread&tid=55660)、[Flash](https://www.repaik.com/forum.php?mod=viewthread&tid=340482)
+1. [微软常用运行库](https://www.repaik.com/forum.php?mod=viewthread&tid=53948)、    [DirectX 修复工具](https://blog.csdn.net/vbcom/article/details/6962388)、                [DirectX9.0c End-User Runtimes](https://www.repaik.com/forum.php?mod=viewthread&tid=55660)、    [Flash](https://www.repaik.com/forum.php?mod=viewthread&tid=340482)
 
-2. [youtube-dl](https://github.com/ytdl-org/youtube-dl/releases) [Annie](https://github.com/iawia002/annie/releases)
+2. [youtube-dl](https://github.com/ytdl-org/youtube-dl/releases)    [Annie](https://github.com/iawia002/annie/releases)
 
 3. [HWID_KMS38](http://bbs.pcbeta.com/viewthread-1811496-1-1.html)
 
@@ -196,7 +196,7 @@ Other Settings —— Translation —— √ 覆盖默认字体(推荐) ； 主�
 
 10. [SteamAchievementManager (Auto ver.)](https://github.com/gotkrypto76/SteamAchievementManager)
 
-11. [QQ](https://im.qq.com/download/) [NtrQQ](https://iya.app/)
+11. [QQ](https://im.qq.com/download/)    [NtrQQ](https://iya.app/)
 
 12. [WinSCP](https://winscp.net/eng/download.php)
 
@@ -220,7 +220,7 @@ Other Settings —— Translation —— √ 覆盖默认字体(推荐) ； 主�
 
 22. [7-Zip](https://www.7-zip.org/)
 
-23. [Honeyview](http://www.bandisoft.com/honeyview/) [qimgv](https://github.com/easymodo/qimgv/releases)
+23. [Honeyview](http://www.bandisoft.com/honeyview/)    [qimgv](https://github.com/easymodo/qimgv/releases)
 
 24. [JDK](https://www.oracle.com/java/technologies/javase-downloads.html)
 
@@ -228,7 +228,7 @@ Other Settings —— Translation —— √ 覆盖默认字体(推荐) ； 主�
 
 26. [迅雷](http://x.xunlei.com/)
 
-27. [小丸工具箱](https://maruko.appinn.me/) [XMedia Recode](https://www.xmedia-recode.de/en/download.php)
+27. [小丸工具箱](https://maruko.appinn.me/)    [XMedia Recode](https://www.xmedia-recode.de/en/download.php)
 
 28. [K-Lite Codec Pack Mega](http://www.codecguide.com/download_kl.htm)
 
@@ -256,9 +256,9 @@ Other Settings —— Translation —— √ 覆盖默认字体(推荐) ； 主�
 
 40. [nvidiaProfileInspector](https://github.com/Orbmu2k/nvidiaProfileInspector/releases/)
 
-41. [IntelliJ IDEA](https://www.jetbrains.com/idea/download/#section=windows) [JetBrains Mono](https://www.jetbrains.com/lp/mono/) [patch](https://zhile.io/)
+41. [IntelliJ IDEA](https://www.jetbrains.com/idea/download/#section=windows)    [JetBrains Mono](https://www.jetbrains.com/lp/mono/)    [patch](https://zhile.io/)
 
-42. [CCleaner](https://www.423down.com/716.html) [Winapp2](https://github.com/MoscaDotTo/Winapp2)
+42. [CCleaner](https://www.423down.com/716.html)    [Winapp2](https://github.com/MoscaDotTo/Winapp2)
 
 43. [OpenHashTab](https://github.com/namazso/OpenHashTab/releases)
 
@@ -272,7 +272,7 @@ Other Settings —— Translation —— √ 覆盖默认字体(推荐) ； 主�
 
 2. [Cheat Engine](https://cheatengine.org/)
 
-3. [waifu2x-caffe](https://github.com/lltcggie/waifu2x-caffe) [cuDNN](https://developer.nvidia.com/rdp/cudnn-download) [Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI/releases)
+3. [waifu2x-caffe](https://github.com/lltcggie/waifu2x-caffe)    [cuDNN](https://developer.nvidia.com/rdp/cudnn-download)    [Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI/releases)
 
 4. [KMS Tools](https://www.solidfiles.com/folder/bd7165a0d4/)
 
