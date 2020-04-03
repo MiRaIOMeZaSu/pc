@@ -139,11 +139,11 @@ Editor —— General —— √ Change font size(Zoom) with Ctrl+Mouse Wheel
 【自动导包】
 Editor —— General —— Auto Import —— Insert imports on paste：All ；√ AddUnambiguous imports on the fly ；√ Optimize imports on the fly（for current project） 
 【设置行号显示】
-Editor —— General —— Appearance —— √ Show line numbers 
+Editor —— General —— Appearance —— √ Show line numbers ； √ Show method separators 
 【忽略大小写】
 Editor —— General —— Code Completion —— × Match case 
 【字体】
-Editor —— Font —— Font：JetBrains Mono ； Size：15 ； Line spacing：1.2 ； Fallback font：Microsoft YaHei UI 
+Editor —— Font —— Font：JetBrains Mono ； Size：13 ； Line spacing：1 ； Fallback font：Microsoft YaHei UI 
 【皮肤设置2】
 Editor —— Color Scheme —— Scheme：One Dark vivid 
 【自动换行】
