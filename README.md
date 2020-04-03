@@ -216,7 +216,9 @@ Windows Registry Editor Version 5.00
 
 40. [nvidiaProfileInspector](https://github.com/Orbmu2k/nvidiaProfileInspector/releases/)
 
-41. [JetBrains](https://zhile.io/)
+41. [IntelliJ IDEA](https://www.jetbrains.com/idea/download/#section=windows) [patch](https://zhile.io/)
+
+42. 
 
 
 ## Software List(Optional)
@@ -242,8 +244,9 @@ Windows Registry Editor Version 5.00
 
 11. WinRAR
 
-12. 
+12. CCleaner
 
+13. 
 
 ## 美化软件
 
