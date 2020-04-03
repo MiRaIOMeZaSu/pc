@@ -117,16 +117,40 @@ Windows Registry Editor Version 5.00
 
 <pre>
 IDEA设置备忘录
-【自动编译项目】Build, Execution, Deployment —— Compiler —— √ Build project automatically 
-【忽略大小写】Editor —— General —— Code Completion —— × Match case 
-【自动导包】Editor —— General —— Auto Import —— Insert imports on paste：All ；√ AddUnambiguous imports on the fly ；√ Optimize imports on the fly（for current project） 
-【悬浮提示】Editor —— General —— √ Show quick documentation on mouse move 
-【取消单行显示标签页】Editor —— General —— × Show tabs in one row 
-【项目文件编码】Editor —— File Encodings —— Global Encoding：UTF-8 ； Project Encoding：UTF-8 ； Default encoding for properties files：UTF-8 ； √ Transparent native-to-ascii conversion 
-【滚轮修改字体大小】Editor —— General —— √ Change font size(Zoom) with Ctrl+Mouse Wheel 
-【设置行号显示】Editor —— General —— Appearance —— √ Show line numbers 
-【字体】Editor —— Font —— Font：JetBrains Mono ； Size：15 ； Line spacing：1.2 ； Fallback font：Microsoft YaHei UI 
-【自动换行】Editor —— Code Style —— √ Wrap on typing ； —— Java —— √ Ensure right margin is not exceeded 
+
+【IDEA启动设置】
+文件目录：...\JetBrains\IntelliJ IDEA 2019.3.4\bin\idea64.exe.vmoptions
+-Xms2048m
+-Xmx2048m
+-XX:ReservedCodeCacheSize=1024m
+【皮肤设置1】
+Appearance & Behavior —— Appearance —— Theme：One Dark vivid 
+【悬浮提示】
+Editor —— General —— √ Show quick documentation on mouse move 
+【取消单行显示标签页】
+Editor —— General —— × Show tabs in one row 
+【滚轮修改字体大小】
+Editor —— General —— √ Change font size(Zoom) with Ctrl+Mouse Wheel 
+【自动导包】
+Editor —— General —— Auto Import —— Insert imports on paste：All ；√ AddUnambiguous imports on the fly ；√ Optimize imports on the fly（for current project） 
+【设置行号显示】
+Editor —— General —— Appearance —— √ Show line numbers 
+【忽略大小写】
+Editor —— General —— Code Completion —— × Match case 
+【字体】
+Editor —— Font —— Font：JetBrains Mono ； Size：15 ； Line spacing：1.2 ； Fallback font：Microsoft YaHei UI 
+【皮肤设置2】
+Editor —— Color Scheme —— Scheme：One Dark vivid 
+【自动换行】
+Editor —— Code Style —— √ Wrap on typing ； —— Java —— √ Ensure right margin is not exceeded 
+【项目文件编码】
+Editor —— File Encodings —— Global Encoding：UTF-8 ； Project Encoding：UTF-8 ； Default encoding for properties files：UTF-8 ； √ Transparent native-to-ascii conversion 
+【插件列表】
+Plugins —— One Dark theme ； Rainbow Brackets ； Translation 
+【自动编译项目】
+Build, Execution, Deployment —— Compiler —— √ Build project automatically 
+【翻译设置】
+Other Settings —— Translation —— √ 覆盖默认字体(推荐) ； 主要字体：Microsoft YaHei UI ； 音标字体：Arial 
 
 </pre>
 
