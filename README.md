@@ -45,7 +45,7 @@ Windows Registry Editor Version 5.00
 </pre>
 
 <pre>
-C:\Users\<user name>\youtube-dl.conf
+youtube-dl设置文件目录：C:\Users\<user name>\youtube-dl.conf
 -i
 --proxy socks5://127.0.0.1:2080/
 -f 'bestvideo[ext=mp4]+bestaudio[ext=m4a]/best[ext=mp4]/best'
@@ -124,7 +124,7 @@ Windows Registry Editor Version 5.00
 IntelliJ IDEA设置备忘录
 
 【IntelliJ IDEA启动参数】
-文件目录：~/JetBrains/IntelliJ IDEA 2019.3.4/bin/idea64.exe.vmoptions
+文件目录：~\JetBrains\IntelliJ IDEA 2019.3.4\bin\idea64.exe.vmoptions
 -Xms2048m
 -Xmx2048m
 -XX:ReservedCodeCacheSize=1024m
