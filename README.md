@@ -45,7 +45,7 @@ Windows Registry Editor Version 5.00
 </pre>
 
 <pre>
-youtube-dl设置文件目录：C:\Users\<user name>\youtube-dl.conf
+youtube-dl设置文件目录：C:\Users\user name\youtube-dl.conf
 -i
 --proxy socks5://127.0.0.1:2080/
 -f 'bestvideo[ext=mp4]+bestaudio[ext=m4a]/best[ext=mp4]/best'
