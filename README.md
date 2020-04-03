@@ -216,7 +216,7 @@ Windows Registry Editor Version 5.00
 
 40. [nvidiaProfileInspector](https://github.com/Orbmu2k/nvidiaProfileInspector/releases/)
 
-41. [IntelliJ IDEA](https://www.jetbrains.com/idea/download/#section=windows) [patch](https://zhile.io/)
+41. [IntelliJ IDEA](https://www.jetbrains.com/idea/download/#section=windows) [JetBrains Mono](https://www.jetbrains.com/lp/mono/) [patch](https://zhile.io/)
 
 42. 
 
