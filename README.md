@@ -1,7 +1,5 @@
 # Personal_Software_List
-因为每次装机都要一个一个找以前装过的软件，索性列一个清单，加快装机效率
-
-哈希值校验语法：CertUtil -hashfile 路径 MD5/SHA1/SHA256/SHA512
+避免每次装机重头寻找历史安装过的软件，索性列一个清单，炼成半小时装机软件复原大法
 
 CPU核数设置:msconfig
 
