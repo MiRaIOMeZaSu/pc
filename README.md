@@ -156,6 +156,8 @@ Editor —— File Encodings —— Global Encoding：UTF-8 ； Project Encoding
 Plugins —— One Dark theme ； Rainbow Brackets ； Translation 
 【自动编译项目】
 Build, Execution, Deployment —— Compiler —— √ Build project automatically 
+【增加堆内存】
+Build, Execution, Deployment —— Compiler —— Build process heap size(Mbytes)：2048 
 【翻译设置】
 Other Settings —— Translation —— √ 覆盖默认字体(推荐) ； 主要字体：Microsoft YaHei UI ； 音标字体：Arial 
 </pre>
