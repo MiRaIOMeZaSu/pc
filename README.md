@@ -148,6 +148,8 @@ Editor —— Font —— Font：JetBrains Mono ； Size：13 ； Line spacing�
 Editor —— Color Scheme —— Scheme：One Dark vivid 
 【自动换行】
 Editor —— Code Style —— √ Wrap on typing ； —— Java —— √ Ensure right margin is not exceeded 
+【单行注释斜杠跟着代码】
+Editor —— Code Style —— Java —— Code Generation —— × Line comment at first column ； √ Add a space at comment start 
 【项目文件编码】
 Editor —— File Encodings —— Global Encoding：UTF-8 ； Project Encoding：UTF-8 ； Default encoding for properties files：UTF-8 ； √ Transparent native-to-ascii conversion 
 【插件列表】
