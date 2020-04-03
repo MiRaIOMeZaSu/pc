@@ -226,25 +226,19 @@ Windows Registry Editor Version 5.00
 
 3. [waifu2x-caffe](https://github.com/lltcggie/waifu2x-caffe) [cuDNN](https://developer.nvidia.com/rdp/cudnn-download) [Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI/releases)
 
-4. [Captura](https://github.com/MathewSachin/Captura/releases)
+4. [KMS Tools](https://www.solidfiles.com/folder/bd7165a0d4/)
 
 5. [Open Broadcaster Software](https://obsproject.com/download)
 
 6. [ScreenToGif](https://github.com/NickeManarin/ScreenToGif/releases)
 
-7. [KMS Tools](https://www.solidfiles.com/folder/bd7165a0d4/)
+7. [OpenHashTab](https://github.com/namazso/OpenHashTab/releases)
 
 8. [rufus](https://github.com/pbatard/rufus/releases)
 
-9. [MuMu模拟器](http://mumu.163.com/)
+9. 万兴系列软件
 
-10. [雷电模拟器](https://www.ldmnq.com/)
-
-11. [OpenHashTab](https://github.com/namazso/OpenHashTab/releases)
-
-12. 万兴系列软件
-
-13. 
+10. 
 
 
 ## 美化软件
