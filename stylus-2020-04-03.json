@@ -1,0 +1,24 @@
+[
+	{
+		"enabled": true,
+		"updateUrl": "https://userstyles.org/styles/chrome/171822.json",
+		"md5Url": "https://update.userstyles.org/171822.md5",
+		"url": "http://userstyles.org/styles/171822",
+		"originalMd5": "c7a61f5f738021ed1c78d6dccf7695c7",
+		"installDate": 1585460121622,
+		"sections": [
+			{
+				"urls": [],
+				"urlPrefixes": [],
+				"domains": [],
+				"regexps": [],
+				"code": "body,div,p,a,strong,section,table,th,td,ul,ol,li,dl,dt,dd,input,textarea,pre,code,form,h1,h2,h3,h4,h5,h6,img{\r\nfont-family: Arial,'Microsoft YaHei UI' !important;\r\ntext-shadow: 1px 1px 1px rgba(0,0,0,.2)\r\n}"
+			}
+		],
+		"name": "Microsoft YaHei UI(shadow effects)",
+		"originalDigest": "028640404bd021c0020fe76edc8bbdebdfd4dcc6",
+		"_id": "6050ee0c-8219-4373-8e04-3c3d5968d957",
+		"_rev": 1585460121623,
+		"id": 1
+	}
+]
