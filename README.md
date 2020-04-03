@@ -6,9 +6,12 @@ CPU核数设置:msconfig
 卓越性能:<pre>powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61</pre>
 
 一键设置所有uwp应用使用代理（用cmd）：
-<pre>FOR /F "tokens=11 delims=\" %p IN ('REG QUERY "HKCU\Software\Classes\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppContainer\Mappings"') DO CheckNetIsolation.exe LoopbackExempt -a -p=%p</pre>
+<pre>
+FOR /F "tokens=11 delims=\" %p IN ('REG QUERY "HKCU\Software\Classes\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppContainer\Mappings"') DO CheckNetIsolation.exe LoopbackExempt -a -p=%p
+</pre>
 
-<pre>Windows Registry Editor Version 5.00
+<pre>
+Windows Registry Editor Version 5.00
 
 ;如需还原去除上语句前减号即可
 
@@ -38,7 +41,8 @@ CPU核数设置:msconfig
 
 ;取消我的电脑"3D对象"文件夹
 
-[-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\MyComputer\NameSpace\{0DB7E03F-FC29-4DC6-9020-FF41B59E513A}]</pre>
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\MyComputer\NameSpace\{0DB7E03F-FC29-4DC6-9020-FF41B59E513A}]
+</pre>
 
 <pre>
 C:\Users\<user name>\youtube-dl.conf
@@ -113,7 +117,8 @@ Windows Registry Editor Version 5.00
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome\PluginsAllowedForUrls]
 "1"=-
-"2"=-</pre>
+"2"=-
+</pre>
 
 <pre>
 IDEA设置备忘录
@@ -151,7 +156,6 @@ Plugins —— One Dark theme ； Rainbow Brackets ； Translation
 Build, Execution, Deployment —— Compiler —— √ Build project automatically 
 【翻译设置】
 Other Settings —— Translation —— √ 覆盖默认字体(推荐) ； 主要字体：Microsoft YaHei UI ； 音标字体：Arial 
-
 </pre>
 
 ## Useful Websites
