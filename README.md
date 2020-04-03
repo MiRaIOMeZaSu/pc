@@ -136,7 +136,7 @@ Windows Registry Editor Version 5.00
 * [老殁|殁漂遥](https://www.laomoit.com/)
 
 ## Software List(Indispensable)
-1. [微软常用运行库](https://www.repaik.com/forum.php?mod=viewthread&tid=53948)、[DirectX 修复工具](https://blog.csdn.net/vbcom/article/details/6962388)、DirectX9.0c End-User Runtimes、[Flash](https://www.repaik.com/forum.php?mod=viewthread&tid=340482))
+1. [微软常用运行库](https://www.repaik.com/forum.php?mod=viewthread&tid=53948)、[DirectX 修复工具](https://blog.csdn.net/vbcom/article/details/6962388)、[DirectX9.0c End-User Runtimes](https://www.repaik.com/forum.php?mod=viewthread&tid=55660)、[Flash](https://www.repaik.com/forum.php?mod=viewthread&tid=340482))
 
 2. [youtube-dl](https://github.com/ytdl-org/youtube-dl/releases) [Annie](https://github.com/iawia002/annie/releases)
 
@@ -148,7 +148,7 @@ Windows Registry Editor Version 5.00
 
 6. [旺信](https://alimarket.taobao.com/markets/qnww/portal-group/ww/download)
 
-7. Groupy
+7. Groupy(Steam)
 
 8. [PotPlayer](https://potplayer.daum.net/)
 
@@ -174,9 +174,9 @@ Windows Registry Editor Version 5.00
 
 19. [Logitech Gaming Software](https://support.logitech.com.cn/zh_cn/downloads)
 
-20. Fences
+20. Fences(Steam)
 
-21. Start10
+21. Start10(Steam)
 
 22. [7-Zip](https://www.7-zip.org/)
 
@@ -238,13 +238,13 @@ Windows Registry Editor Version 5.00
 
 8. [rufus](https://github.com/pbatard/rufus/releases)
 
-9. 万兴系列软件
+9. [万兴系列软件](https://www.423down.com/9357.html)
 
-10. UltraISO
+10. [UltraISO](https://www.423down.com/1397.html)
 
-11. WinRAR
+11. [WinRAR](https://hrtsea.com/121.html)
 
-12. CCleaner
+12. [CCleaner](https://www.423down.com/716.html) [Winapp2](https://github.com/MoscaDotTo/Winapp2)
 
 13. 
 
