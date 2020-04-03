@@ -115,6 +115,20 @@ Windows Registry Editor Version 5.00
 "1"=-
 "2"=-</pre>
 
+<pre>
+IDEA设置备忘录
+【自动编译项目】Build, Execution, Deployment —— Compiler —— √ Build project automatically 
+【忽略大小写】Editor —— General —— Code Completion —— × Match case 
+【自动导包】Editor —— General —— Auto Import —— Insert imports on paste：All ；√ AddUnambiguous imports on the fly ；√ Optimize imports on the fly（for current project） 
+【悬浮提示】Editor —— General —— √ Show quick documentation on mouse move 
+【取消单行显示标签页】Editor —— General —— × Show tabs in one row 
+【项目文件编码】Editor —— File Encodings —— Global Encoding：UTF-8 ； Project Encoding：UTF-8 ； Default encoding for properties files：UTF-8 ； √ Transparent native-to-ascii conversion 
+【滚轮修改字体大小】Editor —— General —— √ Change font size(Zoom) with Ctrl+Mouse Wheel 
+【设置行号显示】Editor —— General —— Appearance —— √ Show line numbers 
+【字体】Editor —— Font —— Font：JetBrains Mono ； Size：15 ； Line spacing：1.2 ； Fallback font：Microsoft YaHei UI 
+【自动换行】Editor —— Code Style —— √ Wrap on typing ； —— Java —— √ Ensure right margin is not exceeded 
+
+</pre>
 
 ## Useful Websites
 * [UUP dump](https://uupdump.ml/?lang=zh-cn)
