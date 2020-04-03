@@ -121,9 +121,9 @@ Windows Registry Editor Version 5.00
 </pre>
 
 <pre>
-IDEA设置备忘录
+IntelliJ IDEA设置备忘录
 
-【IDEA启动设置】
+【IntelliJ IDEA启动参数】
 文件目录：...\JetBrains\IntelliJ IDEA 2019.3.4\bin\idea64.exe.vmoptions
 -Xms2048m
 -Xmx2048m
