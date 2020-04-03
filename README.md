@@ -243,7 +243,7 @@ Windows Registry Editor Version 5.00
 
 ## 美化软件
 
-[致美化](zhutix.com)
+[致美化](https://zhutix.com/)
 
 [noMeiryoUI](http://tatsu.life.coocan.jp/MySoft/index.html)
 
