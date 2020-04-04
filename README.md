@@ -222,7 +222,7 @@ Other Settings —— Translation —— √ 覆盖默认字体(推荐) ； 主�
 
 21. Start10(Steam)
 
-22. [7-Zip](https://www.7-zip.org/)
+22. [Bandizip](https://www.bandisoft.com/bandizip/dl/)    [patch](https://www.423down.com/9735.html)    [7-Zip](https://www.7-zip.org/)
 
 23. [Honeyview](http://www.bandisoft.com/honeyview/)    [qimgv](https://github.com/easymodo/qimgv/releases)
 
