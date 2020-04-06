@@ -167,17 +167,11 @@ Other Settings —— Translation —— √ 覆盖默认字体(推荐) ； 主�
 
 * [423Down](https://www.423down.com/)
 
+* [果壳剥壳](https://www.ghpym.com/)
+
 * [睿派克技术论坛](https://www.repaik.com/forum-68-1.html)
 
-* [胡萝卜周](http://www.carrotchou.blog/)
-
-* [烈火软件](https://hrtsea.com/)
-
 * [远景论坛](http://bbs.pcbeta.com/forum-win10-1.html)
-
-* [MSDN,我告诉你](https://msdn.itellyou.cn/)
-
-* [老殁|殁漂遥](https://www.laomoit.com/)
 
 ## Software List(Indispensable)
 1. [微软常用运行库](https://www.repaik.com/forum.php?mod=viewthread&tid=53948)、    [DirectX 修复工具](https://blog.csdn.net/vbcom/article/details/6962388)、                [DirectX9.0c End-User Runtimes](https://www.repaik.com/forum.php?mod=viewthread&tid=55660)、    [Flash](https://www.repaik.com/forum.php?mod=viewthread&tid=340482)
