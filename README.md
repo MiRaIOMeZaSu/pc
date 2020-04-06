@@ -167,7 +167,7 @@ Other Settings —— Translation —— √ 覆盖默认字体(推荐) ； 主�
 
 * [423Down](https://www.423down.com/)
 
-* [果壳剥壳](https://www.ghpym.com/)
+* [果核剥壳](https://www.ghpym.com/)
 
 * [睿派克技术论坛](https://www.repaik.com/forum-68-1.html)
 
