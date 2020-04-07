@@ -194,7 +194,7 @@ Other Settings —— Translation —— √ 覆盖默认字体(推荐) ； 主�
 
 10. [SteamAchievementManager (Auto ver.)](https://github.com/gotkrypto76/SteamAchievementManager)
 
-11. [QQ](https://im.qq.com/download/)    [NtrQQ](https://iya.app/)    [纯真IP数据库](http://www.cz88.net/fox/ipdat.shtml)
+11. [QQ](https://im.qq.com/download/)    [NtrQQ](https://github.com/NtrQQ/download/releases)    [iYa.App 软件交流社区](https://iya.app/)
 
 12. [WinSCP](https://winscp.net/eng/download.php)
 
