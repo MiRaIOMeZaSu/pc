@@ -130,6 +130,8 @@ IntelliJ IDEA设置备忘录
 -XX:ReservedCodeCacheSize=1024m
 【皮肤设置1】
 Appearance & Behavior —— Appearance —— Theme：One Dark vivid 
+【代理设置】
+Appearance & Behavior —— System Settings —— HTTP Proxy —— Manual proxy configuration —— √ SOCKS ； Host name：127.0.0.1 ； Port number：2080 
 【悬浮提示】
 Editor —— General —— √ Show quick documentation on mouse move 
 【取消单行显示标签页】
