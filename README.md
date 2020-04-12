@@ -58,7 +58,7 @@ youtube-dl设置文件目录：C:\Users\user name\youtube-dl.conf
 <pre>
 Windows Registry Editor Version 5.00
 
-;导入Flash优化设置 支持Chromium/Chrome .
+;导入Flash优化设置 支持Chromium/Chrome/新版Edge .
 
 ;AllowOutdatedPlugins	是否允许加载过期的Flash插件，1表示允许，0表示禁止，建议开启，避免flash狂刷版本号，频繁更新，根据自身情况酌情修改
 ;RunAllFlashInAllowMode	如果启用此设置（即设置为1），那么在内容设置中设为允许运行 Flash（无论是由用户还是由企业政策设置）的网站中内嵌的所有 Flash 内容（包括来自其他来源的内容或不重要的内容）都会运行。
@@ -69,6 +69,7 @@ Windows Registry Editor Version 5.00
 
 
 ;Chromium需要导入到User这个根键下面，否则不生效
+
 [HKEY_CURRENT_USER\SOFTWARE\Policies\Chromium]
 "AllowOutdatedPlugins"=dword:00000001
 "RunAllFlashInAllowMode"=dword:00000001
@@ -92,6 +93,8 @@ Windows Registry Editor Version 5.00
 [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome\PluginsAllowedForUrls]
 "1"="https://*"
 "2"="http://*"
+
+
 
 ;导入新版Edge优化设置
 [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Edge]
