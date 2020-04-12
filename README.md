@@ -92,6 +92,17 @@ Windows Registry Editor Version 5.00
 [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome\PluginsAllowedForUrls]
 "1"="https://*"
 "2"="http://*"
+
+;导入新版Edge优化设置
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Edge]
+"AllowOutdatedPlugins"=dword:00000001
+"RunAllFlashInAllowMode"=dword:00000001
+"DefaultPluginsSetting"=dword:00000001
+"HardwareAccelerationModeEnabled"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Edge\PluginsAllowedForUrls]
+"1"="https://*"
+"2"="http://*"
 </pre>
 
 <pre>
@@ -116,6 +127,17 @@ Windows Registry Editor Version 5.00
 "HardwareAccelerationModeEnabled"=-
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome\PluginsAllowedForUrls]
+"1"=-
+"2"=-
+
+;删除新版Edge设置
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Edge]
+"AllowOutdatedPlugins"=-
+"RunAllFlashInAllowMode"=-
+"DefaultPluginsSetting"=-
+"HardwareAccelerationModeEnabled"=-
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Edge\PluginsAllowedForUrls]
 "1"=-
 "2"=-
 </pre>
