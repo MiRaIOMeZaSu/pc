@@ -10,6 +10,13 @@ CPU核数设置:msconfig
 FOR /F "tokens=11 delims=\" %p IN ('REG QUERY "HKCU\Software\Classes\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppContainer\Mappings"') DO CheckNetIsolation.exe LoopbackExempt -a -p=%p
 </pre>
 
+<pre>Chrome Flags
+Tab Groups
+Parallel downloading
+Tab Hover Card Images
+Override software rendering list
+</pre>
+
 <pre>
 Windows Registry Editor Version 5.00
 
