@@ -13,9 +13,7 @@ FOR /F "tokens=11 delims=\" %p IN ('REG QUERY "HKCU\Software\Classes\Local Setti
 <pre>
 Chrome浏览器实验性功能：
 Override software rendering list
-Smooth Scrolling
 GPU rasterization
-Tab Groups
 Parallel downloading
 Tab Hover Card Images
 </pre>
