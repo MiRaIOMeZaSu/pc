@@ -11,10 +11,12 @@ FOR /F "tokens=11 delims=\" %p IN ('REG QUERY "HKCU\Software\Classes\Local Setti
 </pre>
 
 <pre>Chrome Flags
+Override software rendering list
+Smooth Scrolling
+GPU rasterization
 Tab Groups
 Parallel downloading
 Tab Hover Card Images
-Override software rendering list
 </pre>
 
 <pre>
