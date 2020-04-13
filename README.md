@@ -10,7 +10,7 @@ CPU核数设置:msconfig
 FOR /F "tokens=11 delims=\" %p IN ('REG QUERY "HKCU\Software\Classes\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppContainer\Mappings"') DO CheckNetIsolation.exe LoopbackExempt -a -p=%p
 </pre>
 
-<pre># Chrome Flags
+<pre>
 Override software rendering list
 Smooth Scrolling
 GPU rasterization
