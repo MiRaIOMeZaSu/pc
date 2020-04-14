@@ -15,6 +15,7 @@ Chrome浏览器实验性功能：
 Override software rendering list
 GPU rasterization
 Out of process rasterization
+Enable native notifications.
 Parallel downloading
 Tab Hover Card Images
 Skia API for OOP-D compositing
