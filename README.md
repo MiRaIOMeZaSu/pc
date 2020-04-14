@@ -14,8 +14,10 @@ FOR /F "tokens=11 delims=\" %p IN ('REG QUERY "HKCU\Software\Classes\Local Setti
 Chrome浏览器实验性功能：
 Override software rendering list
 GPU rasterization
+Out of process rasterization
 Parallel downloading
 Tab Hover Card Images
+Skia API for OOP-D compositing
 </pre>
 
 <pre>
