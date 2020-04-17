@@ -207,8 +207,6 @@ Other Settings —— Translation —— √ 覆盖默认字体(推荐) ； 主�
 
 * [果核剥壳](https://www.ghpym.com/)
 
-* [睿派克技术论坛](https://www.repaik.com/forum-68-1.html)
-
 * [远景论坛](http://bbs.pcbeta.com/forum-win10-1.html)
 
 ## Software List(Indispensable)
