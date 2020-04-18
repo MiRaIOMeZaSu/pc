@@ -2,11 +2,11 @@
 避免每次装机重头寻找历史安装过的软件，索性列一个清单，炼成半小时装机软件复原大法
 
 CPU核数设置:msconfig
-<p>
+<pre>
 # 卓越性能：
 	powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
-</p>
-<p>
+</pre>
+<pre>
 # 一键设置所有uwp应用使用代理（用cmd）：
 FOR /F "tokens=11 delims=\" %p IN ('REG QUERY "HKCU\Software\Classes\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppContainer\Mappings"') DO CheckNetIsolation.exe LoopbackExempt -a -p=%p
 </pre>
