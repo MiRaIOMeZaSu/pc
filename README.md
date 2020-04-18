@@ -2,23 +2,23 @@
 避免每次装机重头寻找历史安装过的软件，索性列一个清单，炼成半小时装机软件复原大法
 
 CPU核数设置:msconfig
+卓越性能：
 <pre>
-# 卓越性能：
-	powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
+powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
 </pre>
+一键设置所有uwp应用使用代理（用cmd）：
 <pre>
-# 一键设置所有uwp应用使用代理（用cmd）：
 FOR /F "tokens=11 delims=\" %p IN ('REG QUERY "HKCU\Software\Classes\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppContainer\Mappings"') DO CheckNetIsolation.exe LoopbackExempt -a -p=%p
 </pre>
 git代理设置：
 <pre>
-#ssh代理设置文件路径：C:\Users\username\.ssh\config
+# ssh代理设置文件路径：C:\Users\username\.ssh\config
 Host github.com
 ProxyCommand connect -S 127.0.0.1:2080 %h %p
 
-#git只吃http代理，https会被无视，无需设置
-#git config --global http.https://github.com.proxy socks5://127.0.0.1:2080
-#http代理设置文件路径：C:\Users\username\.gitconfig
+# git只吃http代理，https会被无视，无需设置
+# git config --global http.https://github.com.proxy socks5://127.0.0.1:2080
+# http代理设置文件路径：C:\Users\username\.gitconfig
 [http "https://github.com"]
 	proxy = socks5://127.0.0.1:2080
 </pre>
