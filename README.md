@@ -17,7 +17,7 @@ Host github.com
 ProxyCommand connect -S 127.0.0.1:2080 %h %p
 
 # git只吃http代理，https会被无视，无需设置
-# git config --global http.https://github.com.proxy socks5://127.0.0.1:2080
+git config --global http.https://github.com.proxy socks5://127.0.0.1:2080
 # http代理设置文件路径：C:\Users\username\.gitconfig
 [http "https://github.com"]
 	proxy = socks5://127.0.0.1:2080
