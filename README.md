@@ -9,7 +9,18 @@ CPU核数设置:msconfig
 <pre>
 FOR /F "tokens=11 delims=\" %p IN ('REG QUERY "HKCU\Software\Classes\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppContainer\Mappings"') DO CheckNetIsolation.exe LoopbackExempt -a -p=%p
 </pre>
+git代理设置：
+<pre>
+#ssh代理设置文件路径：C:\Users\username\.ssh\config
+Host github.com
+ProxyCommand connect -S 127.0.0.1:2080 %h %p
 
+#git只吃http代理，https会被无视，无需设置
+#git config --global http.https://github.com.proxy socks5://127.0.0.1:2080
+#http代理设置文件路径：C:\Users\username\.gitconfig
+[http "https://github.com"]
+	proxy = socks5://127.0.0.1:2080
+</pre>
 <pre>
 Chrome浏览器实验性功能：
 Override software rendering list
