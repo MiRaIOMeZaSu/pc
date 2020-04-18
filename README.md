@@ -210,7 +210,7 @@ Other Settings —— Translation —— √ 覆盖默认字体(推荐) ； 主�
 * [远景论坛](http://bbs.pcbeta.com/forum-win10-1.html)
 
 ## Software List(Indispensable)
-1. [微软常用运行库](https://www.repaik.com/forum.php?mod=viewthread&tid=53948)、    [DirectX 修复工具](https://blog.csdn.net/vbcom/article/details/6962388)、                [DirectX9.0c End-User Runtimes](https://www.repaik.com/forum.php?mod=viewthread&tid=55660)、    [Flash](https://www.repaik.com/forum.php?mod=viewthread&tid=340482)
+1. [微软常用运行库](https://github.com/abbodi1406/vcredist/releases)、    [DirectX 修复工具](https://blog.csdn.net/vbcom/article/details/6962388)、                [DirectX9.0c End-User Runtimes](https://www.microsoft.com/zh-CN/download/details.aspx?id=35)、    [Flash](https://www.423down.com/2082.html)
 
 2. [youtube-dl](https://github.com/ytdl-org/youtube-dl/releases)    [Annie](https://github.com/iawia002/annie/releases)
 
