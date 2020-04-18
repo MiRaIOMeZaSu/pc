@@ -14,13 +14,13 @@ git代理设置：
 <pre>
 # ssh代理设置文件路径：C:\Users\username\.ssh\config
 Host github.com
-ProxyCommand connect -S 127.0.0.1:2080 %h %p
+ProxyCommand connect -H 127.0.0.1:2081 %h %p
 
 # git只吃http代理，https会被无视，无需设置
-git config --global http.https://github.com.proxy socks5://127.0.0.1:2080
+git config --global http.https://github.com.proxy http://127.0.0.1:2081
 # http代理设置文件路径：C:\Users\username\.gitconfig
 [http "https://github.com"]
-	proxy = socks5://127.0.0.1:2080
+	proxy = http://127.0.0.1:2081
 </pre>
 <pre>
 Chrome浏览器实验性功能：
