@@ -9,7 +9,7 @@ REGEDIT4
 "0"=""
 
 [HKEY_CURRENT_USER\Software\Daum\PotPlayerMini64\Dialog324]
-"WindowPosition"="152,157,1010,910"
+"WindowPosition"="76,240,934,993"
 "TopMost"=dword:00000000
 
 [HKEY_CURRENT_USER\Software\Daum\PotPlayerMini64\DvbcList]
@@ -187,10 +187,10 @@ REGEDIT4
 "111"=""
 
 [HKEY_CURRENT_USER\Software\Daum\PotPlayerMini64\Positions]
-"VideoWindowRectL0"=dword:000001b8
-"VideoWindowRectT0"=dword:00000097
-"VideoWindowRectR0"=dword:000006b8
-"VideoWindowRectB0"=dword:000003de
+"VideoWindowRectL0"=dword:0000016f
+"VideoWindowRectT0"=dword:00000300
+"VideoWindowRectR0"=dword:0000066f
+"VideoWindowRectB0"=dword:000005d0
 "VideoWindowState1"=dword:00000000
 "VideoWindowRectL1"=dword:000001b6
 "VideoWindowRectT1"=dword:00000064
@@ -220,7 +220,7 @@ REGEDIT4
 "Info1"=""
 "Info6"=""
 "Info7"=""
-"LastConfigPage"=dword:00000162
+"LastConfigPage"=dword:000001b2
 "PlaybackMode"=dword:00000001
 "LastPlayListName"="PotPlayerMini64.dpl"
 "LastSkinName"="ModernW10_汉化增强版_v2.9.1.dsf"
@@ -237,7 +237,6 @@ REGEDIT4
 "CloseOnComplete"=dword:00000001
 "MoveSizeByCenter"=dword:00000001
 "AllowMultiple"=dword:00000000
-"UseMagWindow"=dword:00000000
 "EffectPage"=dword:00000000
 "EffectCastOnly"=dword:00000001
 "SkipCastPreview"=dword:00000000
@@ -278,7 +277,7 @@ REGEDIT4
 "AttachWindowIndex"=dword:00000002
 "SkinPopupMenuStyle"=dword:00000001
 "InstallEmbeddedFont"=dword:00000000
-"SkinUseOsc"=dword:00000003
+"SkinUseOsc"=dword:00000001
 "CaptionMaxRes"=dword:00000001
 "CaptionQueueSize"=dword:00000000
 "CheckAutoUpdate"=dword:00000000
