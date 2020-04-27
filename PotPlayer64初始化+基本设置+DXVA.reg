@@ -17,8 +17,8 @@ Windows Registry Editor Version 5.00
 "DefSizeOnClose"=dword:00000001
 ;基本——启始——播放器启动后——窗口位置“默认位置”
 "StartCenterPos"=dword:00000003
-;基本——皮肤覆盖/放大——在画面上输出皮肤：方式：使用Direct3D 11
-"SkinUseOsc"=dword:00000003
+;基本——皮肤覆盖/放大——在画面上输出皮肤：方式：使用窗口化图层
+"SkinUseOsc"=dword:00000002
 ;基本——皮肤/配色——弹出式菜单“系统菜单”
 "SkinPopupMenuStyle"=dword:00000001
 ;基本——简索——取消“播放文件夹里的所有文件”、“播放文件夹里的所有文件(含子目录)”、“收藏夹”、“当前播放列表”、“最近播放”
