@@ -28,7 +28,7 @@ Windows Registry Editor Version 5.00
 "SO_Playlist"=dword:00000000
 "SO_History"=dword:00000000
 ;基本——消息——屏显消息字体设置
-"MessageFontName"="微软雅黑"
+"MessageFontName"="Microsoft YaHei UI"
 "MessageFontSize"=dword:0000000c
 "MessageTextColor"=dword:ff00ffff
 "MessageOutlineColor"=dword:c8ff8000
@@ -36,12 +36,8 @@ Windows Registry Editor Version 5.00
 "CloseOnComplete"=dword:00000001
 ;播放——鼠标指向进度条时显示缩略图
 "PreviewThumbnail"=dword:00000001
-;播放——取消“在进度条上显示书签/章节标记”
-"DisplayBookmark"=dword:00000000
 ;播放——列表——取消“记忆近期播放名单/URL地址”
 "SavePlayList"=dword:00000000
-;字幕——取消“VMR/EVR中平滑输出字幕”
-"UseCaptionBinFilter"=dword:00000000
 ;字幕——最大分辨率“屏幕分辨率”
 "CaptionMaxRes"=dword:00000001
 ;字幕——字幕缓冲量“0”
@@ -52,13 +48,6 @@ Windows Registry Editor Version 5.00
 "SaveCaptionSel"=dword:00000000
 ;滤镜——内置图像处理滤镜设置——激活条件“不使用”
 "VideoTransformUseMode"=dword:00000002
-;滤镜——源滤镜/分离器——内置源滤镜/分离器设置——取消“自动加载媒体内所带字体”
-"InstallEmbeddedFont"=dword:00000000
-;滤镜——视频解码器——内置解码器/DXVA设置——使用硬件加速(DXVA)
-"IntDXVAUseMode"=dword:00000001
-;滤镜——视频解码器——内置解码器/DXVA设置——解码器——H.265/HEVC“FFmpeg64.dll”
-;【注：此设置需要FFmpeg64.dll存在。实现效果：可切换“内置FFmpeg HEVC H/W 解码器”(如果支持，且开启DXVA的前提下)∕“FFmpeg64.dll”(不支持内置FFmpeg HEVC H/W 解码器，或没有开启DXVA的前提下)】
-"IntH265_0"=dword:00000001
 ;声音——语言/同步/其他——取消“记忆用户的语言/流选择”
 "SaveAudioSel"=dword:00000000
 ;存档——采集类文件夹——截图：条件允许时以播放目录存档
