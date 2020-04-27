@@ -9,7 +9,7 @@ REGEDIT4
 "0"=""
 
 [HKEY_CURRENT_USER\Software\Daum\PotPlayerMini64\Dialog324]
-"WindowPosition"="491,164,1349,917"
+"WindowPosition"="152,157,1010,910"
 "TopMost"=dword:00000000
 
 [HKEY_CURRENT_USER\Software\Daum\PotPlayerMini64\DvbcList]
@@ -232,9 +232,11 @@ REGEDIT4
 "CamVideoDevice"="@device:pnp:\\\\?\\usb#vid_5986&pid_0702&mi_00#6&39be6043&0&0000#{65e8773d-8f56-11d0-a3b9-00a0c9223196}\\global"
 "CamVideoOutName"="捕获"
 "CamAudioOutName"="@"
+"PreviewThumbnail"=dword:00000001
 "DisplayBookmark"=dword:00000000
 "CloseOnComplete"=dword:00000001
 "MoveSizeByCenter"=dword:00000001
+"AllowMultiple"=dword:00000000
 "UseMagWindow"=dword:00000000
 "EffectPage"=dword:00000000
 "EffectCastOnly"=dword:00000001
@@ -287,5 +289,5 @@ REGEDIT4
 [HKEY_CURRENT_USER\Software\Daum\PotPlayerMini64]
 "MInfo2"="qWAdgvdSgHSchahfx7a+sKLCnPrhX7V+PWVoZjmDFJUSmW+esA==;OZIFTtCAIoQHVkW6Is8U/v99XrZA2+TYCmmNcdx22dQm086aHk//OtFQV0clPdkMAxtYoA4l/eBsD0jkvi9gOW/GMRThbq7Lncl92QtYx5sOQi+1"
 "ServiceValue"=dword:00000000
-""=dword:00000000
+""=dword:00000001
 
