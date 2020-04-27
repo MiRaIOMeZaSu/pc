@@ -220,7 +220,7 @@ REGEDIT4
 "Info1"=""
 "Info6"=""
 "Info7"=""
-"LastConfigPage"=dword:00000166
+"LastConfigPage"=dword:00000162
 "PlaybackMode"=dword:00000001
 "LastPlayListName"="PotPlayerMini64.dpl"
 "LastSkinName"="ModernW10_汉化增强版_v2.9.1.dsf"
@@ -235,7 +235,6 @@ REGEDIT4
 "DisplayBookmark"=dword:00000000
 "CloseOnComplete"=dword:00000001
 "MoveSizeByCenter"=dword:00000001
-"AllowMultiple"=dword:00000000
 "UseMagWindow"=dword:00000000
 "EffectPage"=dword:00000000
 "EffectCastOnly"=dword:00000001
