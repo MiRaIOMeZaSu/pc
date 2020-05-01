@@ -187,23 +187,23 @@ Editor —— General —— × Show tabs in one row
 【滚轮修改字体大小】
 Editor —— General —— √ Change font size(Zoom) with Ctrl+Mouse Wheel 
 【自动导包】
-Editor —— General —— Auto Import —— Insert imports on paste：All ；√ AddUnambiguous imports on the fly ；√ Optimize imports on the fly（for current project） 
+Editor —— General —— Auto Import —— √ AddUnambiguous imports on the fly ；√ Optimize imports on the fly（for current project） 
 【设置行号显示】
-Editor —— General —— Appearance —— √ Show line numbers ； √ Show method separators 
+Editor —— General —— Appearance —— √ Show method separators 
 【忽略大小写】
 Editor —— General —— Code Completion —— × Match case 
 【字体】
-Editor —— Font —— Font：JetBrains Mono ； Size：13 ； Line spacing：1 ； Fallback font：Microsoft YaHei UI 
+Editor —— Font —— Font：JetBrains Mono ； Size：13 ； Line spacing：1.2 ； Fallback font：Microsoft YaHei UI 
 【皮肤设置2】
 Editor —— Color Scheme —— Scheme：One Dark vivid 
 【自动换行】
-Editor —— Code Style —— √ Wrap on typing ； —— Java —— √ Ensure right margin is not exceeded 
+Editor —— Code Style —— √ Wrap on typing ； —— Java —— Wrapping and Braces —— √ Ensure right margin is not exceeded 
 【单行注释斜杠跟着代码】
 Editor —— Code Style —— Java —— Code Generation —— × Line comment at first column ； √ Add a space at comment start 
 【项目文件编码】
-Editor —— File Encodings —— Global Encoding：UTF-8 ； Project Encoding：UTF-8 ； Default encoding for properties files：UTF-8 ； √ Transparent native-to-ascii conversion 
+Editor —— File Encodings —— Project Encoding：UTF-8 ； Default encoding for properties files：UTF-8 ； √ Transparent native-to-ascii conversion 
 【插件列表】
-Plugins —— One Dark theme ； Rainbow Brackets ； Translation 
+Plugins —— Alibaba Java Coding Guidelines ； One Dark theme ； Rainbow Brackets ； Translation 
 【自动编译项目】
 Build, Execution, Deployment —— Compiler —— √ Build project automatically 
 【增加堆内存】
