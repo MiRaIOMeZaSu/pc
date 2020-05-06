@@ -310,7 +310,9 @@ Other Settings —— Translation —— √ 覆盖默认字体(推荐) ； 主�
 
 44. [ScreenToGif](https://github.com/NickeManarin/ScreenToGif/releases)
 
-45. 
+45. [XYplorer](https://www.423down.com/9854.html)
+
+46. 
 
 
 ## Software List(Optional)
