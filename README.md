@@ -222,7 +222,7 @@ Other Settings —— Translation —— √ 覆盖默认字体(推荐) ； 主�
 * [远景论坛](http://bbs.pcbeta.com/forum-win10-1.html)
 
 ## Software List(Indispensable)
-1. [微软常用运行库](https://github.com/abbodi1406/vcredist/releases)、    [DirectX修复工具增强版](https://blog.csdn.net/vbcom/article/details/7245186)、                [DirectX9.0c End-User Runtimes](https://www.microsoft.com/zh-CN/download/details.aspx?id=35)、    [Flash](https://www.423down.com/2082.html)
+1. [微软常用运行库](https://www.ghpym.com/yxkhj.html)、    [DirectX修复工具增强版](https://blog.csdn.net/vbcom/article/details/7245186)、                [DirectX9.0c End-User Runtimes](https://www.microsoft.com/zh-CN/download/details.aspx?id=35)、    [Flash](https://www.423down.com/2082.html)
 
 2. [youtube-dl](https://github.com/ytdl-org/youtube-dl/releases)    [Annie](https://github.com/iawia002/annie/releases)
 
