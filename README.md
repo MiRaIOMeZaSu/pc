@@ -310,7 +310,7 @@ Other Settings —— Translation —— √ 覆盖默认字体(推荐) ； 主�
 
 44. [ScreenToGif](https://github.com/NickeManarin/ScreenToGif/releases)
 
-45. [XYplorer](https://www.423down.com/9854.html)
+45. [Typora](https://typora.io/)
 
 46. 
 
@@ -334,7 +334,15 @@ Other Settings —— Translation —— √ 覆盖默认字体(推荐) ； 主�
 
 9.  [UltraISO](https://www.423down.com/1397.html)
 
-10. 
+10. [XYplorer](https://www.423down.com/9854.html)
+
+11. [亿图图示](https://www.ghpym.com/edrawmax.html)
+
+12. [XMind](https://www.ghpym.com/xmindzen.html)
+
+13. [VMware Workstation](https://www.ghpym.com/workstationlite.html)
+
+14. 
 
 
 ## 美化软件(Unstable)
