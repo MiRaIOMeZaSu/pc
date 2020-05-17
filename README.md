@@ -292,7 +292,7 @@ Other Settings —— Translation —— √ 覆盖默认字体(推荐) ； 主�
 
 35. [酷Q](https://cqp.cc/t/23253)
 
-36. [Discord](https://discordapp.com/download)
+36.  [Typora](https://typora.io/)
 
 37. [Everything](https://www.voidtools.com/zh-cn/downloads/)
 
@@ -310,9 +310,7 @@ Other Settings —— Translation —— √ 覆盖默认字体(推荐) ； 主�
 
 44. [ScreenToGif](https://github.com/NickeManarin/ScreenToGif/releases)
 
-45. [Typora](https://typora.io/)
-
-46. 
+45. 
 
 
 ## Software List(Optional)
@@ -342,7 +340,11 @@ Other Settings —— Translation —— √ 覆盖默认字体(推荐) ； 主�
 
 13. [VMware Workstation](https://www.ghpym.com/workstationlite.html)
 
-14. 
+14. [Telegram](https://telegram.org/)
+
+15. [Discord](https://discordapp.com/download)
+
+16. 
 
 
 ## 美化软件(Unstable)
