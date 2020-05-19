@@ -330,9 +330,9 @@ Other Settings —— Translation —— √ 覆盖默认字体(推荐) ； 主�
 
 8. [rufus](https://github.com/pbatard/rufus/releases)
 
-9.  [UltraISO](https://www.423down.com/1397.html)
+9.  [UltraISO](https://www.ghpym.com/ultraiso.html)
 
-10. [XYplorer](https://www.423down.com/9854.html)
+10. [XYplorer](https://www.ghpym.com/xyplorer-2.html)
 
 11. [亿图图示](https://www.ghpym.com/edrawmax.html)
 
