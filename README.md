@@ -332,19 +332,17 @@ Other Settings —— Translation —— √ 覆盖默认字体(推荐) ； 主�
 
 9.  [UltraISO](https://www.ghpym.com/ultraiso.html)
 
-10. [XYplorer](https://www.ghpym.com/xyplorer-2.html)
+10. [亿图图示](https://www.ghpym.com/edrawmax.html)
 
-11. [亿图图示](https://www.ghpym.com/edrawmax.html)
+11. [XMind](https://www.ghpym.com/xmindzen.html)
 
-12. [XMind](https://www.ghpym.com/xmindzen.html)
+12. [VMware Workstation](https://www.ghpym.com/workstationlite.html)
 
-13. [VMware Workstation](https://www.ghpym.com/workstationlite.html)
+13. [Telegram](https://telegram.org/)
 
-14. [Telegram](https://telegram.org/)
+14. [Discord](https://discordapp.com/download)
 
-15. [Discord](https://discordapp.com/download)
-
-16. 
+15. 
 
 
 ## 美化软件(Unstable)
