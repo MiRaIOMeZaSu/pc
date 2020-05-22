@@ -276,7 +276,7 @@ Other Settings —— Translation —— √ 覆盖默认字体(推荐) ； 主�
 
 27. [小丸工具箱](https://maruko.appinn.me/)    [XMedia Recode](https://www.xmedia-recode.de/en/download.php)
 
-28. [K-Lite Codec Pack Mega](http://www.codecguide.com/download_kl.htm)
+28. [K-Lite Codec Pack Mega](http://www.codecguide.com/download_k-lite_codec_pack_mega.htm)
 
 29. [Chrome](https://www.google.com/intl/zh-CN/chrome/browser/thankyou.html?platform=win64&standalone=1&statcb=1&installdataindex=defaultbrowser)
 
@@ -292,7 +292,7 @@ Other Settings —— Translation —— √ 覆盖默认字体(推荐) ； 主�
 
 35. [酷Q](https://cqp.cc/t/23253)
 
-36.  [Typora](https://typora.io/)
+36. [Typora](https://typora.io/)
 
 37. [Everything](https://www.voidtools.com/zh-cn/downloads/)
 
