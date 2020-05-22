@@ -254,7 +254,7 @@ Other Settings —— Translation —— √ 覆盖默认字体(推荐) ； 主�
 
 16. [Steam](https://store.steampowered.com/about/)
 
-17. [Uplay](http://uplay.ubi.com/index.html)
+17. [Uplay](https://uplay.ubisoft.com/)
 
 18. [火绒](https://www.huorong.cn/person5.html)
 
