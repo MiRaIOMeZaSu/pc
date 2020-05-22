@@ -250,7 +250,7 @@ Other Settings —— Translation —— √ 覆盖默认字体(推荐) ； 主�
 
 14. [Office Tool Plus](https://github.com/YerongAI/Office-Tool/releases)
 
-15. [Adobe software series](https://weibo.com/vposy)
+15. [Adobe software series](https://weibo.com/1112829033)
 
 16. [Steam](https://store.steampowered.com/about/)
 
