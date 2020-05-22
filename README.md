@@ -258,7 +258,7 @@ Other Settings —— Translation —— √ 覆盖默认字体(推荐) ； 主�
 
 18. [火绒](https://www.huorong.cn/person5.html)
 
-19. [Logitech Gaming Software](https://support.logitech.com.cn/zh_cn/downloads)
+19. [Logitech Gaming Software](https://support.logi.com/hc/zh-cn/articles/360025298053)
 
 20. Fences(Steam)
 
