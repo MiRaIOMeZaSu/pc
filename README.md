@@ -240,7 +240,7 @@ Other Settings —— Translation —— √ 覆盖默认字体(推荐) ； 主�
 
 9. [Snipaste](https://www.snipaste.com/)
 
-10. [SteamAchievementManager (Auto ver.)](https://github.com/gotkrypto76/SteamAchievementManager)
+10. [SteamAchievementManager](https://github.com/gibbed/SteamAchievementManager/releases)
 
 11. [QQ](https://im.qq.com/download/)    [NtrQQ](https://github.com/NtrQQ/download/releases)    [iYa.App 软件交流社区](https://iya.app/)
 
