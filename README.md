@@ -226,7 +226,7 @@ Other Settings —— Translation —— √ 覆盖默认字体(推荐) ； 主�
 
 2. [youtube-dl](https://github.com/ytdl-org/youtube-dl/releases)    [Annie](https://github.com/iawia002/annie/releases)
 
-3. [HWID_KMS38](http://bbs.pcbeta.com/viewthread-1811496-1-1.html)
+3. [HWID_KMS38](http://bbs.pcbeta.com/viewthread-1810482-1-1.html)
 
 4. [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor/releases)
 
