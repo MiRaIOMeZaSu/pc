@@ -312,7 +312,9 @@ Other Settings —— Translation —— √ 覆盖默认字体(推荐) ； 主�
 
 45. Notepads(UWP)
 
-46. 
+46. [PowerToys](https://github.com/microsoft/PowerToys/releases)
+
+47. 
 
 
 ## Software List(Optional)
