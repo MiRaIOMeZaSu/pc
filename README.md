@@ -310,7 +310,7 @@ Other Settings —— Translation —— √ 覆盖默认字体(推荐) ； 主�
 
 44. [ScreenToGif](https://github.com/NickeManarin/ScreenToGif/releases)
 
-45. Notepads(UWP)
+45. [Subline Text 3](https://www.sublimetext.com/)
 
 46. [PowerToys](https://github.com/microsoft/PowerToys/releases)
 
