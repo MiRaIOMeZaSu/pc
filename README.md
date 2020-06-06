@@ -168,6 +168,7 @@ Windows Registry Editor Version 5.00
 </pre>
 
 <pre>
+;WIN10优化设置，关闭遥测、熔断、TSX
 Windows Registry Editor Version 5.00
 
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\StorPort]
@@ -182,6 +183,21 @@ Windows Registry Editor Version 5.00
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\kernel]
 "DisableTsx"=dword:00000000
 
+</pre>
+
+<pre>
+;cmd设置编码格式，936为默认GBK，65001为UTF-8
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Command Processor]
+"autorun"="chcp 936"
+</pre>
+
+<pre>
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Command Processor]
+"autorun"="chcp 65001"
 </pre>
 
 <pre>
