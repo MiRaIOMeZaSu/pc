@@ -35,7 +35,6 @@ Skia API for OOP-D compositing
 
 <pre>
 Windows Registry Editor Version 5.00
-
 ;如需还原去除上语句前减号即可
 
 ;取消我的电脑"视频"文件夹
@@ -169,6 +168,7 @@ Windows Registry Editor Version 5.00
 </pre>
 
 <pre>
+Windows Registry Editor Version 5.00
 
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\StorPort]
 "TelemetryPerformanceEnabled"=dword:00000000
