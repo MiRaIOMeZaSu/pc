@@ -169,6 +169,22 @@ Windows Registry Editor Version 5.00
 </pre>
 
 <pre>
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\StorPort]
+"TelemetryPerformanceEnabled"=dword:00000000
+"TelemetryErrorDataEnabled"=dword:00000000
+"TelemetryDeviceHealthEnabled"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management]
+"FeatureSettingsOverride"=dword:00000003
+"FeatureSettingsOverrideMask"=dword:00000003
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\kernel]
+"DisableTsx"=dword:00000000
+
+</pre>
+
+<pre>
 IntelliJ IDEA设置备忘录
 
 【IntelliJ IDEA启动参数】
