@@ -342,11 +342,9 @@ Other Settings —— Translation —— √ 覆盖默认字体(推荐) ； 主�
 
 44. [ScreenToGif](https://github.com/NickeManarin/ScreenToGif/releases)
 
-45. [EmEditor](https://www.423down.com/7569.html)
+45. [PowerToys](https://github.com/microsoft/PowerToys/releases)
 
-46. [PowerToys](https://github.com/microsoft/PowerToys/releases)
-
-47. 
+46. 
 
 
 ## Software List(Optional)
