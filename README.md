@@ -214,8 +214,6 @@ Appearance & Behavior —— Appearance —— Theme：One Dark vivid
 Appearance & Behavior —— System Settings —— HTTP Proxy —— Manual proxy configuration —— √ SOCKS ； Host name：127.0.0.1 ； Port number：2080 
 【悬浮提示】
 Editor —— General —— √ Show quick documentation on mouse move 
-【取消单行显示标签页】
-Editor —— General —— × Show tabs in one row 
 【滚轮修改字体大小】
 Editor —— General —— √ Change font size(Zoom) with Ctrl+Mouse Wheel 
 【自动导包】
@@ -224,6 +222,8 @@ Editor —— General —— Auto Import —— √ AddUnambiguous imports on th
 Editor —— General —— Appearance —— √ Show method separators 
 【忽略大小写】
 Editor —— General —— Code Completion —— × Match case 
+【取消单行显示标签页】
+Editor —— General —— Editor Tabs —— × Show tabs in one row 
 【字体】
 Editor —— Font —— Font：JetBrains Mono ； Size：13 ； Line spacing：1.2 ； Fallback font：Microsoft YaHei UI 
 【皮肤设置2】
