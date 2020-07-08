@@ -201,14 +201,7 @@ Windows Registry Editor Version 5.00
 </pre>
 
 <pre>
-IntelliJ IDEA设置备忘录
-
-【IntelliJ IDEA启动参数】
-文件目录：~\JetBrains\IntelliJIDEA\bin\idea64.exe.vmoptions
--Xms2048m
--Xmx2048m
--XX:ReservedCodeCacheSize=1024m
-IntelliJ IDEA设置备忘录
+### IntelliJ IDEA设置备忘录
 
 【IntelliJ IDEA启动参数】
 文件目录：~\JetBrains\IntelliJIDEA\bin\idea64.exe.vmoptions
