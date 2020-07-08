@@ -208,12 +208,17 @@ IntelliJ IDEA设置备忘录
 -Xms2048m
 -Xmx2048m
 -XX:ReservedCodeCacheSize=1024m
-【皮肤设置1】
+IntelliJ IDEA设置备忘录
+
+【IntelliJ IDEA启动参数】
+文件目录：~\JetBrains\IntelliJIDEA\bin\idea64.exe.vmoptions
+-Xms2048m
+-Xmx2048m
+-XX:ReservedCodeCacheSize=1024m
+【皮肤设置】
 Appearance & Behavior —— Appearance —— Theme：One Dark vivid 
 【代理设置】
 Appearance & Behavior —— System Settings —— HTTP Proxy —— Manual proxy configuration —— √ SOCKS ； Host name：127.0.0.1 ； Port number：2080 
-【悬浮提示】
-Editor —— General —— √ Show quick documentation on mouse move 
 【滚轮修改字体大小】
 Editor —— General —— √ Change font size(Zoom) with Ctrl+Mouse Wheel 
 【自动导包】
@@ -225,9 +230,7 @@ Editor —— General —— Code Completion —— × Match case
 【取消单行显示标签页】
 Editor —— General —— Editor Tabs —— × Show tabs in one row 
 【字体】
-Editor —— Font —— Font：JetBrains Mono ； Size：13 ； Line spacing：1.2 ； Fallback font：Microsoft YaHei UI 
-【皮肤设置2】
-Editor —— Color Scheme —— Scheme：One Dark vivid 
+Editor —— Font —— Fallback font：Microsoft YaHei UI 
 【自动换行】
 Editor —— Code Style —— √ Wrap on typing ； —— Java —— Wrapping and Braces —— √ Ensure right margin is not exceeded 
 【单行注释斜杠跟着代码】
