@@ -302,7 +302,7 @@ Other Settings —— Translation —— √ 覆盖默认字体(推荐) ； 主�
 
 25. [GeForce Experience](https://www.nvidia.com/zh-cn/geforce/geforce-experience/)
 
-26. [迅雷](http://x.xunlei.com/)
+26. [迅雷](https://www.423down.com/10027.html)
 
 27. [小丸工具箱](https://maruko.appinn.me/)    [XMedia Recode](https://www.xmedia-recode.de/en/download.php)
 
@@ -340,9 +340,7 @@ Other Settings —— Translation —— √ 覆盖默认字体(推荐) ； 主�
 
 44. [ScreenToGif](https://github.com/NickeManarin/ScreenToGif/releases)
 
-45. [PowerToys](https://github.com/microsoft/PowerToys/releases)
-
-46. 
+45. 
 
 
 ## Software List(Optional)
@@ -356,25 +354,21 @@ Other Settings —— Translation —— √ 覆盖默认字体(推荐) ； 主�
 
 5. [Open Broadcaster Software](https://obsproject.com/download)
 
-6. [万兴系列软件](https://www.423down.com/9357.html)
+6. [UltraISO](https://www.ghpym.com/ultraiso.html)
 
-7. [WinRAR](https://hrtsea.com/121.html)
+7. [亿图图示](https://www.ghpym.com/edrawmax.html)
 
-8. [rufus](https://github.com/pbatard/rufus/releases)
+8. [XMind](https://www.ghpym.com/xmindzen.html)
 
-9.  [UltraISO](https://www.ghpym.com/ultraiso.html)
+9.  [VMware Workstation](https://www.ghpym.com/workstationlite.html)
 
-10. [亿图图示](https://www.ghpym.com/edrawmax.html)
+10. [Telegram](https://telegram.org/)
 
-11. [XMind](https://www.ghpym.com/xmindzen.html)
+11. [Discord](https://discordapp.com/download)
 
-12. [VMware Workstation](https://www.ghpym.com/workstationlite.html)
+12. [PowerToys](https://github.com/microsoft/PowerToys/releases)
 
-13. [Telegram](https://telegram.org/)
-
-14. [Discord](https://discordapp.com/download)
-
-15. 
+13.
 
 
 ## 美化软件(Unstable)
