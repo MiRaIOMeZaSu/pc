@@ -368,7 +368,9 @@ Other Settings —— Translation —— √ 覆盖默认字体(推荐) ； 主�
 
 12. [PowerToys](https://github.com/microsoft/PowerToys/releases)
 
-13.
+13. [rufus](https://github.com/pbatard/rufus/releases)
+
+14. 
 
 
 ## 美化软件(Unstable)
