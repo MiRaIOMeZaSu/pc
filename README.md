@@ -1,4 +1,4 @@
-# Personal_Software_List
+# 装机清单
 避免每次装机重头寻找历史安装过的软件，索性列一个清单，炼成半小时装机软件复原大法
 
 CPU核数设置:msconfig
