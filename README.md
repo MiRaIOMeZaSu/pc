@@ -356,7 +356,7 @@ Other Settings —— Translation —— √ 覆盖默认字体(推荐) ； 主�
 
 6. [UltraISO](https://www.ghpym.com/ultraiso.html)
 
-7. [亿图图示](https://www.ghpym.com/edrawmax.html)
+7. [drawio](https://github.com/jgraph/drawio-desktop/releases)
 
 8. [XMind](https://www.ghpym.com/xmindzen.html)
 
