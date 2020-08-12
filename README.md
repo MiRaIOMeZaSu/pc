@@ -321,7 +321,7 @@ Other Settings —— Translation —— √ 覆盖默认字体(推荐) ； 主�
 
 34. [百度云](http://pan.baidu.com/download)
 
-35. [酷Q](https://cqp.cc/t/23253)
+35. [小栗子机器人](http://www.xiaolz.cn/)
 
 36. [Typora](https://typora.io/)
 
