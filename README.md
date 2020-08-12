@@ -2,6 +2,7 @@
 避免每次装机重头寻找历史安装过的软件，索性列一个清单，炼成半小时装机软件复原大法
 
 CPU核数设置:msconfig
+
 卓越性能：
 <pre>
 powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
