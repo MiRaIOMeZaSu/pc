@@ -31,7 +31,7 @@ Out of process rasterization
 Enable native notifications.
 Parallel downloading
 Tab Hover Card Images
-Skia API for OOP-D compositing
+Skia API for compositing
 </pre>
 
 <pre>
