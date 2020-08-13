@@ -26,12 +26,14 @@ git config --global http.https://github.com.proxy http://127.0.0.1:2081
 <pre>
 Chrome浏览器实验性功能：
 Override software rendering list
+Smooth Scrolling
 GPU rasterization
 Out of process rasterization
 Enable native notifications.
 Parallel downloading
 Tab Hover Card Images
 Skia API for compositing
+Enforce deprecation of legacy TLS versions
 </pre>
 
 <pre>
