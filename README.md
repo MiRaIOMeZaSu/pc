@@ -373,7 +373,9 @@ Other Settings —— Translation —— √ 覆盖默认字体(推荐) ； 主�
 
 13. [rufus](https://github.com/pbatard/rufus/releases)
 
-14. 
+14. [DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer/releases)
+
+15. 
 
 
 ## 美化软件(Unstable)
