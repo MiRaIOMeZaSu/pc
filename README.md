@@ -30,6 +30,7 @@ Smooth Scrolling
 GPU rasterization
 Out of process rasterization
 Enable native notifications.
+Tab Groups Collapse
 Parallel downloading
 Tab Hover Card Images
 Enable sharing page via QR Code
