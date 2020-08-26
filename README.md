@@ -32,6 +32,7 @@ Out of process rasterization
 Enable native notifications.
 Parallel downloading
 Tab Hover Card Images
+Enable sharing page via QR Code
 Skia API for compositing
 Enforce deprecation of legacy TLS versions
 </pre>
