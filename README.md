@@ -303,7 +303,7 @@ Other Settings —— Translation —— √ 覆盖默认字体(推荐) ； 主�
 
 23. [Honeyview](http://www.bandisoft.com/honeyview/)    [qimgv](https://github.com/easymodo/qimgv/releases)
 
-24. [JDK](https://www.oracle.com/java/technologies/javase-downloads.html)
+24. [JDK](https://www.oracle.com/java/technologies/javase-downloads.html) [OpenJDK](https://developers.redhat.com/products/openjdk/download)
 
 25. [GeForce Experience](https://www.nvidia.com/zh-cn/geforce/geforce-experience/)
 
