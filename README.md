@@ -342,7 +342,9 @@ Other Settings —— Translation —— √ 覆盖默认字体(推荐) ； 主�
 
 45. [魂签](https://github.com/inu1255/soulsign-chrome)
 
-46. 
+46. [EhSyringe](https://github.com/EhTagTranslation/EhSyringe)
+
+47. 
 
 
 ## Software List(Optional)
