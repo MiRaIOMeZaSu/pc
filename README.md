@@ -304,7 +304,7 @@ Other Settings —— Translation —— √ 覆盖默认字体(推荐) ； 主�
 
 26. [迅雷](https://www.423down.com/10027.html)
 
-27. [小丸工具箱](https://maruko.appinn.me/)    [XMedia Recode](https://www.xmedia-recode.de/en/download.php)
+27. [QuickCut](https://github.com/HaujetZhao/QuickCut)    [XMedia Recode](https://www.xmedia-recode.de/en/download.php)
 
 28. [K-Lite Codec Pack Mega](http://www.codecguide.com/download_k-lite_codec_pack_mega.htm)
 
