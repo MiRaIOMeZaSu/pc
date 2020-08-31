@@ -96,7 +96,6 @@ Windows Registry Editor Version 5.00
 
 
 ;Chromium需要导入到User这个根键下面，否则不生效
-
 [HKEY_CURRENT_USER\SOFTWARE\Policies\Chromium]
 "AllowOutdatedPlugins"=dword:00000001
 "RunAllFlashInAllowMode"=dword:00000001
@@ -108,9 +107,7 @@ Windows Registry Editor Version 5.00
 "2"="http://*"
 
 
-
 ;导入Chrome Flash优化设置 ，请注意注册表路径与Chromium不一样，chrome导入到MACHINE根键下面，并且子路径也与Chromium不同
-
 [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome]
 "AllowOutdatedPlugins"=dword:00000001
 "RunAllFlashInAllowMode"=dword:00000001
@@ -120,7 +117,6 @@ Windows Registry Editor Version 5.00
 [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome\PluginsAllowedForUrls]
 "1"="https://*"
 "2"="http://*"
-
 
 
 ;导入新版Edge优化设置
@@ -187,7 +183,6 @@ Windows Registry Editor Version 5.00
 
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\kernel]
 "DisableTsx"=dword:00000000
-
 </pre>
 
 <pre>
