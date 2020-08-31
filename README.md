@@ -340,7 +340,9 @@ Other Settings —— Translation —— √ 覆盖默认字体(推荐) ； 主�
 
 44. [ScreenToGif](https://github.com/NickeManarin/ScreenToGif/releases)
 
-45. 
+45. [魂签](https://github.com/inu1255/soulsign-chrome)
+
+46. 
 
 
 ## Software List(Optional)
