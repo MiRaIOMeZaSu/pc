@@ -23,6 +23,14 @@ git config --global http.https://github.com.proxy http://127.0.0.1:2081
 [http "https://github.com"]
 	proxy = http://127.0.0.1:2081
 </pre>
+
+pip代理设置：
+<pre>
+# pip代理设置文件路径：C:\Users\username\AppData\Roaming\pip
+[global]
+proxy=http://127.0.0.1:2081
+</pre>
+
 <pre>
 Chrome浏览器实验性功能：
 Override software rendering list
